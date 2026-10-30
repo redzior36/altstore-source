@@ -4,7 +4,10 @@ Adres do dodania w AltStore Classic → Sources → +:
 
 **https://redzior36.github.io/altstore-source/source.json**
 
-Dostępna aplikacja: **Apka do Faktur 0.9.0 (kompilacja 1)**, wymagany iOS/iPadOS 26.0+. [Wydanie i plik IPA](https://github.com/redzior36/altstore-source/releases/tag/adf-v0.9.0). Źródło można dodać również w SideStore.
+Dostępne aplikacje:
+
+- **NextCue 0.5.0 (kompilacja 5)**, wymagany iOS/iPadOS 17.0+. [Wydanie i plik IPA](https://github.com/redzior36/altstore-source/releases/tag/nextcue-v0.5.0). IPA nie zawiera ikony; karta w źródle korzysta tymczasowo z awatara autora na GitHubie.
+- **Apka do Faktur 0.9.0 (kompilacja 1)**, wymagany iOS/iPadOS 26.0+. [Wydanie i plik IPA](https://github.com/redzior36/altstore-source/releases/tag/adf-v0.9.0). Źródło można dodać również w SideStore.
 
 ## Publikacja
 
