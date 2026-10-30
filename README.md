@@ -4,7 +4,7 @@ Adres do dodania w AltStore Classic → Sources → +:
 
 **https://redzior36.github.io/altstore-source/source.json**
 
-Źródło jest celowo puste (`apps: []`). Na dzień 2026-10-30 nie znaleziono publicznych wydań IPA do dodania. Nie zawiera fikcyjnych aplikacji ani przykładowych linków pobierania.
+Dostępna aplikacja: **Apka do Faktur 0.9.0 (kompilacja 1)**, wymagany iOS/iPadOS 26.0+. [Wydanie i plik IPA](https://github.com/redzior36/altstore-source/releases/tag/adf-v0.9.0). Źródło można dodać również w SideStore.
 
 ## Publikacja
 
