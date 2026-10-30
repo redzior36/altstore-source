@@ -1,10 +1,40 @@
 {
   "name": "redzior36 Apps",
   "subtitle": "Aplikacje redzior36",
-  "description": "Publiczne źródło aplikacji dla AltStore Classic. Obecnie brak opublikowanych aplikacji.",
+  "description": "Publiczne źródło aplikacji redzior36 dla AltStore Classic i SideStore.",
   "website": "https://github.com/redzior36/altstore-source",
   "tintColor": "#3164D9",
   "nsfw": false,
-  "apps": [],
+  "apps": [
+    {
+      "name": "Apka do Faktur",
+      "bundleIdentifier": "pl.redzior36.adf.mobile",
+      "developerName": "redzior36",
+      "localizedDescription": "Mobilna aplikacja do faktur. Umożliwia skanowanie dokumentów kosztowych oraz parowanie zaufanych urządzeń w sieci lokalnej.",
+      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/adf-v0.9.0/adf-icon.png",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "0.9.0",
+          "buildVersion": "1",
+          "date": "2026-10-30T22:17:48Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/adf-v0.9.0/Apka-do-Faktur-0.9.0.ipa",
+          "size": 7751850,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "application-identifier",
+          "com.apple.developer.team-identifier",
+          "get-task-allow"
+        ],
+        "privacy": {
+          "NSCameraUsageDescription": "Aparat służy do skanowania dokumentu kosztowego lub kodu QR parowania zaufanego urządzenia.",
+          "NSLocalNetworkUsageDescription": "AdF łączy urządzenia w tej samej sieci lokalnej, aby bezpiecznie sparować je krótkim kodem."
+        }
+      }
+    }
+  ],
   "news": []
 }
