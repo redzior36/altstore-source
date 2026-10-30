@@ -1,0 +1,24 @@
+# redzior36 Apps — AltStore Source
+
+Adres do dodania w AltStore Classic → Sources → +:
+
+**https://redzior36.github.io/altstore-source/source.json**
+
+Źródło jest celowo puste (`apps: []`). Na dzień 2026-10-30 nie znaleziono publicznych wydań IPA do dodania. Nie zawiera fikcyjnych aplikacji ani przykładowych linków pobierania.
+
+## Publikacja
+
+GitHub Pages publikuje katalog główny gałęzi `main`. Plik `.nojekyll` wyłącza przetwarzanie Jekyll. Ustawienie repozytorium: Settings → Pages → Deploy from a branch → main → /(root). Każdy zapis na `main` aktualizuje źródło.
+
+Alternatywny adres: https://raw.githubusercontent.com/redzior36/altstore-source/main/source.json
+
+## Dodawanie aplikacji
+
+1. Przygotuj IPA przeznaczone do instalacji na urządzeniu. Udostępnij je jako załącznik publicznego GitHub Release, np. w tym repozytorium. Sprawdź pobieranie bez logowania; prywatne wydania i wygasające artefakty Actions nie nadają się do tego źródła.
+2. Rozpakuj IPA. Z `Payload/*.app/Info.plist` odczytaj `CFBundleIdentifier`, `CFBundleShortVersionString`, `CFBundleVersion` i `MinimumOSVersion`. Zmierz rozmiar całego IPA w bajtach.
+3. Dodaj obiekt do `apps`: `name`, `bundleIdentifier`, `developerName`, `localizedDescription`, publiczne `iconURL`, `versions` i `appPermissions`.
+4. W `versions` dodaj `version`, `buildVersion`, datę publikacji `date` w ISO 8601, bezpośrednie `downloadURL`, `size` i ewentualnie `minOSVersion`. Najnowszą wersję umieść pierwszą.
+5. Uzupełnij `appPermissions.entitlements` i `appPermissions.privacy` na podstawie rzeczywistej aplikacji oraz rozszerzeń. Nie zakładaj, że uprawnienia są puste.
+6. Sprawdź JSON (`python3 -m json.tool source.json`), dostępność wszystkich adresów i zgodność metadanych z IPA. Zapisz zmianę, poczekaj na Pages i odśwież źródło w AltStore.
+
+Format sprawdzony 2026-10-30 według [oficjalnej specyfikacji AltStore](https://faq.altstore.io/developers/make-a-source). To źródło dla **AltStore Classic**; dystrybucja PAL wymaga odrębnego procesu notaryzacji i pakietów ADP.
