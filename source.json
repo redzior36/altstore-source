@@ -10,10 +10,18 @@
       "name": "Apka do Faktur",
       "bundleIdentifier": "pl.redzior36.adf.mobile",
       "developerName": "redzior36",
-      "localizedDescription": "Mobilna aplikacja do faktur. Umożliwia skanowanie dokumentów kosztowych oraz parowanie zaufanych urządzeń w sieci lokalnej.",
+      "localizedDescription": "Faktury, koszty i płatności w szyfrowanym Sejfie na Dysku Google lub OneDrive. Logowanie kontem Google/Microsoft i hasłem Sejfu, kreator konfiguracji, pobieranie danych firmy po NIP oraz skanowanie dokumentów kosztowych.",
       "iconURL": "https://github.com/redzior36/altstore-source/releases/download/adf-v0.9.0/adf-icon.png",
       "category": "utilities",
       "versions": [
+        {
+          "version": "0.9.1",
+          "buildVersion": "2",
+          "date": "2026-11-01T19:47:21Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/adf-v0.9.1/Apka-do-Faktur-0.9.1.ipa",
+          "size": 7684399,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "0.9.0",
           "buildVersion": "1",
@@ -24,14 +32,9 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [
-          "application-identifier",
-          "com.apple.developer.team-identifier",
-          "get-task-allow"
-        ],
+        "entitlements": [],
         "privacy": {
-          "NSCameraUsageDescription": "Aparat służy do skanowania dokumentu kosztowego lub kodu QR parowania zaufanego urządzenia.",
-          "NSLocalNetworkUsageDescription": "AdF łączy urządzenia w tej samej sieci lokalnej, aby bezpiecznie sparować je krótkim kodem."
+          "NSCameraUsageDescription": "Aparat służy do skanowania dokumentów kosztowych."
         }
       }
     },
