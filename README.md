@@ -7,7 +7,7 @@ Adres do dodania w AltStore Classic → Sources → +:
 Dostępne aplikacje:
 
 - **NextCue 0.6.1 (kompilacja 8)**, wymagany iOS/iPadOS 17.0+. [Wydanie i plik IPA](https://github.com/redzior36/altstore-source/releases/tag/nextcue-v0.6.1). Jeden przycisk sidebara, natywna paleta PencilKit i niższy pasek Podglądu. Katalogi dodaje się wyłącznie z Plików. IPA do podpisania przez AltStore / SideStore.
-- **Apka do Faktur 0.9.1a (wersja 0.9.1, kompilacja 3)**, wymagany iOS/iPadOS 26.0+. [Wydanie i plik IPA](https://github.com/redzior36/altstore-source/releases/tag/apka-do-faktur-v0.9.1a). Źródło można dodać również w SideStore.
+- **Apka do Faktur 0.9.2 (kompilacja 4)**, wymagany iOS/iPadOS 26.0+. [Wydanie i plik IPA](https://github.com/redzior36/altstore-source/releases/tag/apka-do-faktur-v0.9.2). Źródło można dodać również w SideStore.
 
 ## Publikacja
 
