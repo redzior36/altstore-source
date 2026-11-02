@@ -16,6 +16,14 @@
       "versions": [
         {
           "version": "0.9.1",
+          "buildVersion": "3",
+          "date": "2026-11-02T07:06:07Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/apka-do-faktur-v0.9.1a/Apka-do-Faktur-0.9.1a.ipa",
+          "size": 7685603,
+          "minOSVersion": "26.0"
+        },
+        {
+          "version": "0.9.1",
           "buildVersion": "2",
           "date": "2026-11-01T19:47:21Z",
           "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/adf-v0.9.1/Apka-do-Faktur-0.9.1.ipa",
