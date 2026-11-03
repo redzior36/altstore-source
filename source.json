@@ -15,6 +15,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.9.3",
+          "buildVersion": "5",
+          "date": "2026-11-03T13:01:00Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/apka-do-faktur-v0.9.3/Apka-do-Faktur-0.9.3.ipa",
+          "size": 7674898,
+          "minOSVersion": "26.0",
+          "localizedDescription": "Mniejsze przyciski logowania Google i Microsoft, obok siebie na szerokim iPadzie. Na iPhonie i w wąskim oknie układ pionowy, z obsługą dużego tekstu i wygodnym obszarem dotykowym."
+        },
+        {
           "version": "0.9.2",
           "buildVersion": "4",
           "date": "2026-11-02T16:26:15Z",
