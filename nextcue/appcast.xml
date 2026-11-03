@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>NextCue</title>
+        <item>
+            <title>0.6.3</title>
+            <pubDate>Tue, 03 Nov 2026 08:01:24 +0100</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.6.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>NextCue 0.6.3</h2>
+<ul>
+<li>Automatyczne aktualizacje macOS z GitHuba, podpisany kanał i paczki. Zapis dokumentów przed restartem.</li>
+<li>Zakreślenia na ciemnym PDF z kolorowym tłem i jasnymi literami.</li>
+<li>Przesuwanie notatek po PDF z trwałym zapisem położenia.</li>
+<li>Natywne wyszukiwanie i przezroczysty pasek narzędzi macOS.</li>
+<li>Nowe grupy przycisków, mniejszy sidebar i ustawienia Cues; nawigacja nad Cues.</li>
+<li>Pełny eksport Cues i notatek bez dodatkowych stron. Gęsta zawartość tworzy kolejne kolumny na tej samej stronie PDF.</li>
+</ul>
+<p>Wersje do 0.6.2 wymagają jednorazowej ręcznej instalacji 0.6.3. Aplikacja macOS ma podpis Apple Development i nie jest notaryzowana.</p>
+]]></description>
+            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/nextcue-v0.6.3/NextCue-0.6.3.dmg" length="3102071" type="application/octet-stream" sparkle:edSignature="Z6WQuprbkmdSyboMDYMdwsftb4AxC1kHaY40hcj9GaWJbjlBROUgLmwHWnSW9xhPpF+2cZ1wEpOSrgNqyfj4Cg=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: jdNmCFtHxGUA0CkyH/5muYgkt0Ex6NwP/wGv/N6o8Tb4an9QaVFWzIWT5Di2JUo3laMXk2TN8Uhix5l0QWEFBw==
+length: 1829
+-->

@@ -6,7 +6,7 @@ Adres do dodania w AltStore Classic → Sources → +:
 
 Dostępne aplikacje:
 
-- **NextCue 0.6.2 (kompilacja 9)**, wymagany iOS/iPadOS 17.0+. [Wydanie i plik IPA](https://github.com/redzior36/altstore-source/releases/tag/nextcue-v0.6.2). Przypinanie notatek, przesuwanie kart Cues, wyszukiwanie PDF, ręczne numery i eksport z kolorami oraz położeniami kart. Katalogi dodaje się wyłącznie z Plików. IPA do podpisania przez AltStore / SideStore.
+- **NextCue 0.6.3 (kompilacja 10)**, wymagany iOS/iPadOS 17.0+. [Wydanie i plik IPA](https://github.com/redzior36/altstore-source/releases/tag/nextcue-v0.6.3). Przesuwanie notatek, natywne wyszukiwanie, czytelne zakreślenia w ciemnym PDF oraz pełny eksport bez dopisywania stron. macOS udostępnia podpisany kanał automatycznych aktualizacji z GitHuba. Katalogi dodaje się wyłącznie z Plików. IPA do podpisania przez AltStore / SideStore.
 - **Apka do Faktur 0.9.2 (kompilacja 4)**, wymagany iOS/iPadOS 26.0+. [Wydanie i plik IPA](https://github.com/redzior36/altstore-source/releases/tag/apka-do-faktur-v0.9.2). Źródło można dodać również w SideStore.
 
 ## Publikacja
@@ -25,3 +25,7 @@ Alternatywny adres: https://raw.githubusercontent.com/redzior36/altstore-source/
 6. Sprawdź JSON (`python3 -m json.tool source.json`), dostępność wszystkich adresów i zgodność metadanych z IPA. Zapisz zmianę, poczekaj na Pages i odśwież źródło w AltStore.
 
 Format sprawdzony 2026-10-30 według [oficjalnej specyfikacji AltStore](https://faq.altstore.io/developers/make-a-source). To źródło dla **AltStore Classic**; dystrybucja PAL wymaga odrębnego procesu notaryzacji i pakietów ADP.
+
+## NextCue na macOS
+
+[NextCue 0.6.3 dla macOS 14+](https://github.com/redzior36/altstore-source/releases/download/nextcue-v0.6.3/NextCue-0.6.3.dmg) obsługuje Apple Silicon i Intel. Od tej wersji aplikacja sprawdza kolejne aktualizacje przez podpisany [kanał Sparkle](https://redzior36.github.io/altstore-source/nextcue/appcast.xml). Starsze wersje wymagają jednorazowej ręcznej instalacji 0.6.3. DMG ma podpis Apple Development i nie jest notaryzowany.

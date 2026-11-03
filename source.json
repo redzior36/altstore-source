@@ -60,9 +60,18 @@
       "bundleIdentifier": "app.nextcue.scenarios",
       "developerName": "redzior36",
       "localizedDescription": "NextCue — scenariusze PDF, listy Cues, notatki i wyróżnienia. Edycja i natywne narzędzia Apple Pencil na iPadzie, podgląd na iPhonie, timer spektaklu i sterowanie OSC. Dodaj katalog z aplikacji Pliki: iCloud Drive, Google Drive, OneDrive lub lokalny folder. Scenariusze pozostają w wybranych lokalizacjach.",
-      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/nextcue-v0.6.2/nextcue-icon.png",
+      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/nextcue-v0.6.3/nextcue-icon.png",
       "category": "utilities",
       "versions": [
+        {
+          "version": "0.6.3",
+          "buildVersion": "10",
+          "date": "2026-11-03T08:17:34Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/nextcue-v0.6.3/NextCue-0.6.3.ipa",
+          "size": 839012,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Przesuwanie notatek po PDF z zapisem położenia, natywne wyszukiwanie, czytelne zakreślenia w trybie ciemnym, uporządkowany pasek narzędzi i nawigacja nad Cues. Pełny eksport wszystkich Cues i notatek bez dopisywania stron; gęste przypisy tworzą kolejne kolumny na tej samej stronie."
+        },
         {
           "version": "0.6.2",
           "buildVersion": "9",
@@ -110,29 +119,29 @@
       "screenshots": {
         "ipad": [
           {
-            "imageURL": "https://github.com/redzior36/altstore-source/releases/download/nextcue-v0.6.2/nextcue-ipad-edit.png",
+            "imageURL": "https://github.com/redzior36/altstore-source/releases/download/nextcue-v0.6.3/nextcue-ipad-edit.png",
             "width": 1640,
             "height": 2360
           },
           {
-            "imageURL": "https://github.com/redzior36/altstore-source/releases/download/nextcue-v0.6.2/nextcue-ipad-preview.png",
+            "imageURL": "https://github.com/redzior36/altstore-source/releases/download/nextcue-v0.6.3/nextcue-ipad-preview.png",
             "width": 1640,
             "height": 2360
           },
           {
-            "imageURL": "https://github.com/redzior36/altstore-source/releases/download/nextcue-v0.6.2/nextcue-ipad-context.png",
+            "imageURL": "https://github.com/redzior36/altstore-source/releases/download/nextcue-v0.6.3/nextcue-ipad-context.png",
             "width": 1640,
             "height": 2360
           },
           {
-            "imageURL": "https://github.com/redzior36/altstore-source/releases/download/nextcue-v0.6.2/nextcue-ipad-search.png",
+            "imageURL": "https://github.com/redzior36/altstore-source/releases/download/nextcue-v0.6.3/nextcue-ipad-search.png",
             "width": 1640,
             "height": 2360
           }
         ],
         "iphone": [
           {
-            "imageURL": "https://github.com/redzior36/altstore-source/releases/download/nextcue-v0.6.1/nextcue-iphone-preview.png",
+            "imageURL": "https://github.com/redzior36/altstore-source/releases/download/nextcue-v0.6.3/nextcue-iphone-preview.png",
             "width": 1320,
             "height": 2868
           }
