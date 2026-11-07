@@ -73,6 +73,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.6.5",
+          "buildVersion": "12",
+          "date": "2026-11-07T11:09:46Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/nextcue-v0.6.5/NextCue-0.6.5.ipa",
+          "size": 872334,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Gładsze kolorowe litery, jaśniejsze zakreślenia i karty Cue w ciemnym motywie. Lupa w dolnym pasku Podglądu oraz poprawki paska statusu i sidebara na iPadzie."
+        },
+        {
           "version": "0.6.4",
           "buildVersion": "11",
           "date": "2026-11-07T10:30:40Z",
