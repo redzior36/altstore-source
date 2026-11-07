@@ -73,6 +73,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.6.4",
+          "buildVersion": "11",
+          "date": "2026-11-07T10:30:40Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/nextcue-v0.6.4/NextCue-0.6.4.ipa",
+          "size": 881874,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Jeden wpis dla powiązanego PDF i projektu, wspólna pozycja czytania, poprawione kolory w ciemnym PDF oraz wyszukiwanie i blokada wygaszania w Podglądzie. Notatki skalują się ze stroną."
+        },
+        {
           "version": "0.6.3",
           "buildVersion": "10",
           "date": "2026-11-03T08:17:34Z",

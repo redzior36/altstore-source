@@ -4,26 +4,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>NextCue</title>
         <item>
-            <title>0.6.3</title>
-            <pubDate>Tue, 03 Nov 2026 08:01:24 +0100</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>0.6.3</sparkle:shortVersionString>
+            <title>0.6.4</title>
+            <pubDate>Sat, 07 Nov 2026 11:29:10 +0100</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.6.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>NextCue 0.6.3</h2>
+            <description><![CDATA[<h2>NextCue 0.6.4</h2>
 <ul>
-<li>Automatyczne aktualizacje macOS z GitHuba, podpisany kanał i paczki. Zapis dokumentów przed restartem.</li>
-<li>Zakreślenia na ciemnym PDF z kolorowym tłem i jasnymi literami.</li>
-<li>Przesuwanie notatek po PDF z trwałym zapisem położenia.</li>
-<li>Natywne wyszukiwanie i przezroczysty pasek narzędzi macOS.</li>
-<li>Nowe grupy przycisków, mniejszy sidebar i ustawienia Cues; nawigacja nad Cues.</li>
-<li>Pełny eksport Cues i notatek bez dodatkowych stron. Gęsta zawartość tworzy kolejne kolumny na tej samej stronie PDF.</li>
+<li>Jeden wpis biblioteki dla powiązanych plików PDF i NextCue. Powiązanie przetrwa zmianę nazwy, a brak źródła jest widoczny przy dokumencie.</li>
+<li>Wspólna pozycja czytania po zmianie motywu oraz przejściu między Edycją a Podglądem. Ciemny PDF zachowuje barwy liter i przyciemnia tło zakreśleń.</li>
+<li>Wyszukiwanie w Podglądzie, blokada wygaszania ekranu oraz uproszczony panel Cues.</li>
+<li>Przesuwanie kart Cue i przypinanie notatek w Podglądzie na iPadzie i Macu. Notatki skalują się wraz ze stroną.</li>
 </ul>
-<p>Wersje do 0.6.2 wymagają jednorazowej ręcznej instalacji 0.6.3. Aplikacja macOS ma podpis Apple Development i nie jest notaryzowana.</p>
 ]]></description>
-            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/nextcue-v0.6.3/NextCue-0.6.3.dmg" length="3102071" type="application/octet-stream" sparkle:edSignature="Z6WQuprbkmdSyboMDYMdwsftb4AxC1kHaY40hcj9GaWJbjlBROUgLmwHWnSW9xhPpF+2cZ1wEpOSrgNqyfj4Cg=="></enclosure>
+            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/nextcue-v0.6.4/NextCue-0.6.4.dmg" length="3201614" type="application/octet-stream" sparkle:edSignature="kVpAs6VWM+BitHECdD6RA/CKsOjdcNFSFHAHmKlbKUSi95HZk96//zZ8e+4VASSLssk/HWFPn4hWd0PG3hOODQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: jdNmCFtHxGUA0CkyH/5muYgkt0Ex6NwP/wGv/N6o8Tb4an9QaVFWzIWT5Di2JUo3laMXk2TN8Uhix5l0QWEFBw==
-length: 1829
+edSignature: vZt5a1cRqDvc59W1wXB8Ywo4jT7ou09IPQ7iiKnn7WUBgFytlbjkXaxE+LWD6A3HeLpxcpjrkJQ2Q3BLUgITBw==
+length: 1677
 -->
