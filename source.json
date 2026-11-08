@@ -73,6 +73,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.7.0",
+          "buildVersion": "13",
+          "date": "2026-11-08T10:50:04Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/nextcue-v0.7.0/NextCue-0.7.0.ipa",
+          "size": 896579,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Wybrane Cue w całości nad dolnym paskiem Podglądu, nowy układ paska i rozwijana wyszukiwarka. Globalna nawigacja OSC po Cue i zapis wyzwoleń. Historia spektaklu obejmuje start, koniec, etapy oraz czasy Cue."
+        },
+        {
           "version": "0.6.5",
           "buildVersion": "12",
           "date": "2026-11-07T11:09:46Z",

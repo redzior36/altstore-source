@@ -6,7 +6,7 @@ Adres do dodania w AltStore Classic → Sources → +:
 
 Dostępne aplikacje:
 
-- **NextCue 0.6.5 (kompilacja 12)**, wymagany iOS/iPadOS 17.0+. [Wydanie i plik IPA](https://github.com/redzior36/altstore-source/releases/tag/nextcue-v0.6.5). Przesuwanie notatek, natywne wyszukiwanie, czytelne zakreślenia w ciemnym PDF oraz pełny eksport bez dopisywania stron. macOS udostępnia podpisany kanał automatycznych aktualizacji z GitHuba. Katalogi dodaje się wyłącznie z Plików. IPA do podpisania przez AltStore / SideStore.
+- **NextCue 0.7.0 (kompilacja 13)**, wymagany iOS/iPadOS 17.0+. [Wydanie i plik IPA](https://github.com/redzior36/altstore-source/releases/tag/nextcue-v0.7.0). Nowy pasek Podglądu, nawigacja OSC we wszystkich listach Cue i historia spektaklu z czasami wyzwoleń. macOS udostępnia podpisany kanał automatycznych aktualizacji z GitHuba. Katalogi dodaje się wyłącznie z Plików. IPA do podpisania przez AltStore / SideStore.
 - **Apka do Faktur 0.9.3 (kompilacja 5)**, wymagany iOS/iPadOS 26.0+. [Wydanie i plik IPA](https://github.com/redzior36/altstore-source/releases/tag/apka-do-faktur-v0.9.3). Źródło można dodać również w SideStore.
 
 ## Publikacja
@@ -28,4 +28,4 @@ Format sprawdzony 2026-10-30 według [oficjalnej specyfikacji AltStore](https://
 
 ## NextCue na macOS
 
-[NextCue 0.6.5 dla macOS 14+](https://github.com/redzior36/altstore-source/releases/download/nextcue-v0.6.5/NextCue-0.6.5.dmg) obsługuje Apple Silicon i Intel. Od wersji 0.6.3 aplikacja sprawdza aktualizacje przez podpisany [kanał Sparkle](https://redzior36.github.io/altstore-source/nextcue/appcast.xml). Wersję 0.6.5 można zainstalować także ręcznie z DMG. DMG ma podpis Apple Development i nie jest notaryzowany.
+[NextCue 0.7.0 dla macOS 14+](https://github.com/redzior36/altstore-source/releases/download/nextcue-v0.7.0/NextCue-0.7.0.dmg) obsługuje Apple Silicon i Intel. Od wersji 0.6.3 aplikacja sprawdza aktualizacje przez podpisany [kanał Sparkle](https://redzior36.github.io/altstore-source/nextcue/appcast.xml). Wersję 0.7.0 można zainstalować także ręcznie z DMG. DMG ma podpis Apple Development i nie jest notaryzowany.

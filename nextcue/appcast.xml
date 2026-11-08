@@ -4,22 +4,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>NextCue</title>
         <item>
-            <title>0.6.5</title>
-            <pubDate>Sat, 07 Nov 2026 12:08:29 +0100</pubDate>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>0.6.5</sparkle:shortVersionString>
+            <title>0.7.0</title>
+            <pubDate>Sun, 08 Nov 2026 11:49:55 +0100</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>NextCue 0.6.5</h2>
+            <description><![CDATA[<h2>NextCue 0.7</h2>
 <ul>
-<li>Gładsze krawędzie kolorowych liter oraz jaśniejsze zakreślenia i karty Cue w ciemnym motywie.</li>
-<li>Wyszukiwanie w dolnym pasku Podglądu. Przypinanie notatek pozostaje dostępne.</li>
-<li>Czytelny pasek statusu i jeden przycisk paska bocznego na iPadzie.</li>
+<li>Podgląd pokazuje wybrane Cue w całości nad dolnym paskiem z timerem i rozwijaną wyszukiwarką.</li>
+<li>OSC obsługuje globalne przechodzenie między Cue, adresy z nazwą listy i numerem oraz zapis wyzwoleń.</li>
+<li>Historia spektaklu zapisuje rozpoczęcie, zakończenie, etapy i czasy wyzwoleń Cue.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/nextcue-v0.6.5/NextCue-0.6.5.dmg" length="3199887" type="application/octet-stream" sparkle:edSignature="GIj6L3ZwOmJ1UnEDRO3Z067T1nuARsv8E3pTGIhkdzaZ7yrOmbJjv9EI5VsjwjapqOR+4sJJ+gldynywXMoJDA=="></enclosure>
+            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/nextcue-v0.7.0/NextCue-0.7.0.dmg" length="3258498" type="application/octet-stream" sparkle:edSignature="IATZEIVejTr+WiqTFd1WkNMoEUXij+ar2NSbTuzMPVIin5EzjrxOtWfWFzrIp9Yk/5YbNstOe1Qu5nBzfFRtBQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: IkneYFlk/Ig+H3c+vj63gGB/1vhLZCmuB5UGTvYNNWhKgZzzPi0IiBYrogQsP3NbqDJ2zVJY6kh36YfUjEh6Dw==
-length: 1414
+edSignature: Aty4t6bqgKzMfK7KvmjSkjwxArKmJmNNpxoy2VzHXPA57rFMEJfHOIVrsGTNv8882TbV+jXZrMIFzzVXgReEAg==
+length: 1456
 -->
