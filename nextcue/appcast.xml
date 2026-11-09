@@ -4,22 +4,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>NextCue</title>
         <item>
-            <title>0.7.0</title>
-            <pubDate>Sun, 08 Nov 2026 11:49:55 +0100</pubDate>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+            <title>0.7.1</title>
+            <pubDate>Mon, 09 Nov 2026 20:48:05 +0100</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>NextCue 0.7</h2>
+            <description><![CDATA[<h2>NextCue 0.7.1</h2>
 <ul>
-<li>Podgląd pokazuje wybrane Cue w całości nad dolnym paskiem z timerem i rozwijaną wyszukiwarką.</li>
-<li>OSC obsługuje globalne przechodzenie między Cue, adresy z nazwą listy i numerem oraz zapis wyzwoleń.</li>
-<li>Historia spektaklu zapisuje rozpoczęcie, zakończenie, etapy i czasy wyzwoleń Cue.</li>
+<li>Globalna numeracja Cue i komendy OSC z samym numerem Cue.</li>
+<li>Konfiguracja OSC w ustawieniach aplikacji, także bez otwartego dokumentu.</li>
+<li>Przewijany panel kart Cue z zawijanym tekstem i większe odstępy w pasku Podglądu.</li>
+<li>Podział stron PDF z przenoszeniem adnotacji oraz możliwością cofnięcia.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/nextcue-v0.7.0/NextCue-0.7.0.dmg" length="3258498" type="application/octet-stream" sparkle:edSignature="IATZEIVejTr+WiqTFd1WkNMoEUXij+ar2NSbTuzMPVIin5EzjrxOtWfWFzrIp9Yk/5YbNstOe1Qu5nBzfFRtBQ=="></enclosure>
+            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/nextcue-v0.7.1/NextCue-0.7.1.dmg" length="3306455" type="application/octet-stream" sparkle:edSignature="f6FyvR08K2Fb8mWL5C+Vuwvx0gg2Fz2u/AJzrubpsUp+mCwtfwEzyTh835dAcCISx/JBh4Jiwdj/zw+yGqATBg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Aty4t6bqgKzMfK7KvmjSkjwxArKmJmNNpxoy2VzHXPA57rFMEJfHOIVrsGTNv8882TbV+jXZrMIFzzVXgReEAg==
-length: 1456
+edSignature: QEaiQdCaKBen7Yy/FbxceaySC7VZ9Eu/ZqRJdlshxi8jiuMWMbahl7M9HTt8TtjnXou3SnIzWhUMKNeseVWvAw==
+length: 1473
 -->

@@ -73,6 +73,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.7.1",
+          "buildVersion": "14",
+          "date": "2026-11-09T19:48:10Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/nextcue-v0.7.1/NextCue-0.7.1.ipa",
+          "size": 917072,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Globalna numeracja Cue i adresy OSC z samym numerem. Konfiguracja OSC w ustawieniach aplikacji. Przewijany panel Cue z zawijanym tekstem oraz podział stron PDF z zachowaniem adnotacji."
+        },
+        {
           "version": "0.7.0",
           "buildVersion": "13",
           "date": "2026-11-08T10:50:04Z",
