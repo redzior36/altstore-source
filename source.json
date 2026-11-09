@@ -73,6 +73,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.7.2",
+          "buildVersion": "15",
+          "date": "2026-11-09T20:30:22Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/nextcue-v0.7.2/NextCue-0.7.2.ipa",
+          "size": 936121,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Nowe Cue otrzymują numer dopasowany do sąsiadów. Lista i nawigacja działają według numerów, a zmiana numeru wymaga potwierdzenia. Mniejsze marginesy kart Cue."
+        },
+        {
           "version": "0.7.1",
           "buildVersion": "14",
           "date": "2026-11-09T19:48:10Z",

@@ -6,7 +6,7 @@ Adres do dodania w AltStore Classic → Sources → +:
 
 Dostępne aplikacje:
 
-- **NextCue 0.7.1 (kompilacja 14)**, wymagany iOS/iPadOS 17.0+. [Wydanie i plik IPA](https://github.com/redzior36/altstore-source/releases/tag/nextcue-v0.7.1). Globalna numeracja Cue, konfiguracja OSC w ustawieniach i podział stron PDF z zachowaniem adnotacji. macOS udostępnia podpisany kanał automatycznych aktualizacji z GitHuba. Katalogi dodaje się wyłącznie z Plików. IPA do podpisania przez AltStore / SideStore.
+- **NextCue 0.7.2 (kompilacja 15)**, wymagany iOS/iPadOS 17.0+. [Wydanie i plik IPA](https://github.com/redzior36/altstore-source/releases/tag/nextcue-v0.7.2). Propozycje numerów nowych Cue, nawigacja według numeru i kompaktowe karty. macOS udostępnia podpisany kanał automatycznych aktualizacji z GitHuba. Katalogi dodaje się wyłącznie z Plików. IPA do podpisania przez AltStore / SideStore.
 - **Apka do Faktur 0.9.3 (kompilacja 5)**, wymagany iOS/iPadOS 26.0+. [Wydanie i plik IPA](https://github.com/redzior36/altstore-source/releases/tag/apka-do-faktur-v0.9.3). Źródło można dodać również w SideStore.
 
 ## Publikacja
@@ -28,4 +28,4 @@ Format sprawdzony 2026-10-30 według [oficjalnej specyfikacji AltStore](https://
 
 ## NextCue na macOS
 
-[NextCue 0.7.1 dla macOS 14+](https://github.com/redzior36/altstore-source/releases/download/nextcue-v0.7.1/NextCue-0.7.1.dmg) obsługuje Apple Silicon i Intel. Od wersji 0.6.3 aplikacja sprawdza aktualizacje przez podpisany [kanał Sparkle](https://redzior36.github.io/altstore-source/nextcue/appcast.xml). Wersję 0.7.1 można zainstalować także ręcznie z DMG. DMG ma podpis Apple Development i nie jest notaryzowany.
+[NextCue 0.7.2 dla macOS 14+](https://github.com/redzior36/altstore-source/releases/download/nextcue-v0.7.2/NextCue-0.7.2.dmg) obsługuje Apple Silicon i Intel. Od wersji 0.6.3 aplikacja sprawdza aktualizacje przez podpisany [kanał Sparkle](https://redzior36.github.io/altstore-source/nextcue/appcast.xml). Wersję 0.7.2 można zainstalować także ręcznie z DMG. DMG ma podpis Apple Development i nie jest notaryzowany.
