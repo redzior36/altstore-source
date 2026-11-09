@@ -4,22 +4,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>NextCue</title>
         <item>
-            <title>0.7.2</title>
-            <pubDate>Mon, 09 Nov 2026 21:30:16 +0100</pubDate>
-            <sparkle:version>15</sparkle:version>
-            <sparkle:shortVersionString>0.7.2</sparkle:shortVersionString>
+            <title>0.7.3</title>
+            <pubDate>Mon, 09 Nov 2026 21:46:03 +0100</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>0.7.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>NextCue 0.7.2</h2>
-<ul>
-<li>Propozycje numerów dla nowych Cue dopasowane do sąsiednich numerów.</li>
-<li>Lista i nawigacja według numeru. Zmiana numeru istniejącego Cue wymaga potwierdzenia.</li>
-<li>Kompaktowe karty Cue z mniejszymi marginesami.</li>
-</ul>
+            <description><![CDATA[<h2>NextCue 0.7.3</h2>
+<p>Eksport PDF zachowuje kolejność kart Cue z panelu aplikacji. Kolejność jest kontynuowana w dodatkowych kolumnach po obu stronach scenariusza.</p>
 ]]></description>
-            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/nextcue-v0.7.2/NextCue-0.7.2.dmg" length="3346111" type="application/octet-stream" sparkle:edSignature="z7a8lvtJa4Bp41kLkH9M2DMysckb6xA44chn7cLSJ8ywzR8iGwJ8w8/bIW8Mpd+5wMoNamNReE+ea8r0oo2JAw=="></enclosure>
+            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/nextcue-v0.7.3/NextCue-0.7.3.dmg" length="3349012" type="application/octet-stream" sparkle:edSignature="MrJ8Xsig6f+u1JdFPRV/144IhaYVoWDp2o6eTmuxDg3XeVANsHPybzu3kSnACmF+LePkWvySqXVdMhQe7CQTCg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 1sloGHuRUisgebePo0urYzIe+K9jMKqH/UjoiUfKVARPehFpAXhRD3ZMTdTEE5d+sE0Z+olcEQTPbzWKyZ3qDQ==
-length: 1375
+edSignature: oJqM9x1tsKs6qcfC2VcMilpqK6AGHIehp6ArmUCKDVeWP68gjYEUj+b5LJGJ0xjkV4oRWObwACgcwpEEBbKwAQ==
+length: 1284
 -->

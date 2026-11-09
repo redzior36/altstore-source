@@ -73,6 +73,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.7.3",
+          "buildVersion": "16",
+          "date": "2026-11-09T20:46:07Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/nextcue-v0.7.3/NextCue-0.7.3.ipa",
+          "size": 937740,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Eksport PDF zachowuje kolejność kart Cue z panelu aplikacji, również przy kilku kolumnach i w obu układach eksportu."
+        },
+        {
           "version": "0.7.2",
           "buildVersion": "15",
           "date": "2026-11-09T20:30:22Z",
