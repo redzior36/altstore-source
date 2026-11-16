@@ -4,17 +4,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Apka do Faktur</title>
         <item>
-            <title>0.1.4</title>
-            <pubDate>Mon, 16 Nov 2026 17:11:43 +0100</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+            <title>0.1.5</title>
+            <pubDate>Mon, 16 Nov 2026 19:20:07 +0100</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Przy pierwszym uruchomieniu po aktualizacji aplikacja rozpoznaje konfigurację pozostawioną przez starszą wersję po wylogowaniu i wraca do ekranu powitalnego.
+            <description sparkle:format="markdown"><![CDATA[- Poprawiono fokus pól logowania w kreatorze na iPhonie i iPadzie, aby formularz działał również po zmianie wysokości ekranu przez klawiaturę.
+- Po utworzeniu konta kreator wskazuje link potwierdzający w wiadomości od Supabase.
 ]]></description>
-            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.4/ApkaDoFaktur-0.1.4-macOS.zip" length="11068109" type="application/octet-stream" sparkle:edSignature="gZroD1Zlp68OSCOJWI4UYVuTZxogfA4aJBL0OjIp6PJiqrmBlsyD2h8dI/kdJVT4eEq7cUt+RKrEcU/geLldDA=="></enclosure>
+            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.5/ApkaDoFaktur-0.1.5-macOS.zip" length="11076066" type="application/octet-stream" sparkle:edSignature="KgTkr2Ed/9BZAggrLCG2apPyLCMEwDCjhWV1R8DmLo6tv0OmPAkfktN5X7nNHhn/3jbrEUG/Ql/D8CUQdUsuDA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 2kOfc1hBHsD/rGwtJY7aAMINLxAN5gHsFs+yt4adjkU/79vqWEM/csIESY7Fk6gy82et4uv55aHpkix0678rBQ==
-length: 1319
+edSignature: PLpyKkwZW5NbNcgnF2FjHSvzhEzUbKqxo+G7VRI+qOYtLCikHdJZ9Od9zr5uTEWeym37y30GV3dj6r6PAN/jAQ==
+length: 1394
 -->
