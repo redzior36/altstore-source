@@ -8,6 +8,34 @@
   "apps": [
     {
       "name": "Apka do Faktur",
+      "subtitle": "Nowa wersja na iPhone’a i iPada",
+      "bundleIdentifier": "pl.rdztech.apkadofaktur",
+      "developerName": "redzior36",
+      "localizedDescription": "Wystawiaj faktury, przeglądaj koszty i powiąż transakcje z fakturami. Ta wersja ma osobny identyfikator i własne dane lokalne.",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "buildVersion": "1",
+          "date": "2026-11-16T09:24:59Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-macos-v0.1.0/ApkaDoFaktur-0.1.0.ipa",
+          "size": 5135689,
+          "sha256": "d8384b66123d4f8d19f7d7ff9ede041f5873fcb0edef15679dbc4b9fb3a328e5",
+          "minOSVersion": "17.0",
+          "localizedDescription": "Pierwsze wydanie nowej Apki do Faktur na iPhone’a i iPada z iOS lub iPadOS 17 albo nowszym.\n\n- Przychody pokazują faktury, szkice i korekty na jednej liście.\n- Płatności pozwalają importować CSV lub pobierać transakcje przez Enable Banking oraz powiązać je z fakturami.\n- Dodawanie faktury otwiera pływający formularz.\n\nTa aplikacja ma nowy identyfikator. Starszą wersję można zostawić zainstalowaną. Dane lokalne obu wersji są osobne."
+        }
+      ],
+      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-macos-v0.1.0/apkadofaktur-icon.png",
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Skanuj dokumenty kosztowe.",
+          "NSFaceIDUsageDescription": "Odblokuj dostęp do faktur."
+        }
+      }
+    },
+    {
+      "name": "Apka do Faktur",
       "bundleIdentifier": "pl.redzior36.adf.mobile",
       "developerName": "redzior36",
       "localizedDescription": "Faktury, koszty i płatności w szyfrowanym Sejfie na Dysku Google lub OneDrive. Logowanie kontem Google/Microsoft i hasłem Sejfu, kreator konfiguracji, pobieranie danych firmy po NIP oraz skanowanie dokumentów kosztowych.",
