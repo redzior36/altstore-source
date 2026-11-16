@@ -15,6 +15,16 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.6",
+          "buildVersion": "7",
+          "date": "2026-11-16T19:07:20Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.6/ApkaDoFaktur-0.1.6.ipa",
+          "size": 5214608,
+          "sha256": "f3c1b794ba155188f6379d5bdf7836372941f1554735135bc63f2079c92365ef",
+          "minOSVersion": "17.0",
+          "localizedDescription": "Dodano ekran Ustawienia → Integracje → Enable Banking. Zawiera stan połączenia, zarządzanie rachunkiem, adres powrotu przypisany do projektu oraz odsyłacze do panelu Enable Banking i sekretów Supabase. Historię transakcji nadal można pobrać w Płatnościach."
+        },
+        {
           "version": "0.1.5",
           "buildVersion": "6",
           "date": "2026-11-16T18:21:20Z",
@@ -75,7 +85,7 @@
           "localizedDescription": "Pierwsze wydanie nowej Apki do Faktur na iPhone’a i iPada z iOS lub iPadOS 17 albo nowszym.\n\n- Przychody pokazują faktury, szkice i korekty na jednej liście.\n- Płatności pozwalają importować CSV lub pobierać transakcje przez Enable Banking oraz powiązać je z fakturami.\n- Dodawanie faktury otwiera pływający formularz.\n\nTa aplikacja ma nowy identyfikator. Starszą wersję można zostawić zainstalowaną. Dane lokalne obu wersji są osobne."
         }
       ],
-      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.5/apkadofaktur-icon.png",
+      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.6/apkadofaktur-icon.png",
       "appPermissions": {
         "entitlements": [],
         "privacy": {
