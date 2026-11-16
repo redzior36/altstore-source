@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Apka do Faktur</title>
         <item>
-            <title>0.1.3</title>
-            <pubDate>Mon, 16 Nov 2026 17:00:23 +0100</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+            <title>0.1.4</title>
+            <pubDate>Mon, 16 Nov 2026 17:11:43 +0100</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Po wybraniu „Wyloguj i usuń lokalną kopię” aplikacja wraca do pierwszego kroku konfiguracji, także po ponownym uruchomieniu.
+            <description sparkle:format="markdown"><![CDATA[Przy pierwszym uruchomieniu po aktualizacji aplikacja rozpoznaje konfigurację pozostawioną przez starszą wersję po wylogowaniu i wraca do ekranu powitalnego.
 ]]></description>
-            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.3/ApkaDoFaktur-0.1.3-macOS.zip" length="11067945" type="application/octet-stream" sparkle:edSignature="F4mAzwccMyLXtWRJIV3mlGnobEE2Xvc0w+6UVDUO+BX1BTJg27tzz5qdjyQuG68W4sg2s6BjnM4XlPS/lMp6Bw=="></enclosure>
+            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.4/ApkaDoFaktur-0.1.4-macOS.zip" length="11068109" type="application/octet-stream" sparkle:edSignature="gZroD1Zlp68OSCOJWI4UYVuTZxogfA4aJBL0OjIp6PJiqrmBlsyD2h8dI/kdJVT4eEq7cUt+RKrEcU/geLldDA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: xWP2P9Km3yuWfHmCksWXZQMasLeb4p3M+ONlviVtYbZzq6j3VrKV0t0pAMwovWTUlxtUhDScvUYxzMmCP41mAg==
-length: 1290
+edSignature: 2kOfc1hBHsD/rGwtJY7aAMINLxAN5gHsFs+yt4adjkU/79vqWEM/csIESY7Fk6gy82et4uv55aHpkix0678rBQ==
+length: 1319
 -->
