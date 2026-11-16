@@ -4,18 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Apka do Faktur</title>
         <item>
-            <title>0.1.5</title>
-            <pubDate>Mon, 16 Nov 2026 19:20:07 +0100</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+            <title>0.1.6</title>
+            <pubDate>Mon, 16 Nov 2026 20:05:19 +0100</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- Poprawiono fokus pól logowania w kreatorze na iPhonie i iPadzie, aby formularz działał również po zmianie wysokości ekranu przez klawiaturę.
-- Po utworzeniu konta kreator wskazuje link potwierdzający w wiadomości od Supabase.
+            <description sparkle:format="markdown"><![CDATA[Dodano ekran Ustawienia → Integracje → Enable Banking. Zawiera stan połączenia, zarządzanie rachunkiem, adres powrotu przypisany do projektu oraz odsyłacze do panelu Enable Banking i sekretów Supabase. Historię transakcji nadal można pobrać w Płatnościach.
 ]]></description>
-            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.5/ApkaDoFaktur-0.1.5-macOS.zip" length="11076066" type="application/octet-stream" sparkle:edSignature="KgTkr2Ed/9BZAggrLCG2apPyLCMEwDCjhWV1R8DmLo6tv0OmPAkfktN5X7nNHhn/3jbrEUG/Ql/D8CUQdUsuDA=="></enclosure>
+            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.6/ApkaDoFaktur-0.1.6-macOS.zip" length="11101747" type="application/octet-stream" sparkle:edSignature="M3S6QKO17lQKVCka+Z2QEA2UCesnjTf31rG7qbhOcnW87o2FKfkuw8SyTEHPezq/lV3Vv22jmquYNPrp5EmbDQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: PLpyKkwZW5NbNcgnF2FjHSvzhEzUbKqxo+G7VRI+qOYtLCikHdJZ9Od9zr5uTEWeym37y30GV3dj6r6PAN/jAQ==
-length: 1394
+edSignature: vNW+Apqf7iMOyoV3qOKcN+rDTUq7BlLD5C3GDLr+LyOs2OlzbjRDAruxu45MJfpzIrZbSFn94cKUCmnVqAHGDQ==
+length: 1428
 -->
