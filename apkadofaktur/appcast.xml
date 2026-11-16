@@ -4,17 +4,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Apka do Faktur</title>
         <item>
-            <title>0.1.1</title>
-            <pubDate>Mon, 16 Nov 2026 10:33:24 +0100</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <title>0.1.2</title>
+            <pubDate>Mon, 16 Nov 2026 14:58:56 +0100</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Naprawiono błąd uruchamiania aplikacji na macOS związany z ładowaniem Sparkle.
+            <description sparkle:format="markdown"><![CDATA[- Kreator konfiguracji pozwala zalogować się do Supabase i wybrać istniejący projekt. Aplikacja pobiera dane połączenia i stosuje brakujące migracje po potwierdzeniu MFA.
+- Kreator umożliwia utworzenie konta użytkownika w projekcie, który zezwala na rejestrację. Nadal można skonfigurować połączenie ręcznie lub je wczytać z pliku.
 ]]></description>
-            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.1/ApkaDoFaktur-0.1.1-macOS.zip" length="10915669" type="application/octet-stream" sparkle:edSignature="ALQEsgCz4AUh8UXb3az34gBYFvFAJkcYsiziWvtt+lrPJY0njXarGAAWgXf9EnwDHGnq5F4Q4Btq4bidGbr/Dw=="></enclosure>
+            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.2/ApkaDoFaktur-0.1.2-macOS.zip" length="11064677" type="application/octet-stream" sparkle:edSignature="DQT7DyGC1T42J2U3SSHHVIZQP62aG++f34Gg7pfv8lw6wQYKTgQvyiMOXd+OIyDIF1yd9FrZ1oSGWLrpjhgNAg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: CZ0JfJHfg73O17yUUuMbxrHKJggYbVkBT8/GpAoOcwELtldAahpLR2Wvlt1DvyadFQFoN3S8AXfWljIvjxWYCQ==
-length: 1240
+edSignature: qz2qLDG6AMTRHV7ZqPOZ1kpdTf2/J5Ymk13TIa/QFZWRxOE6khsb7StQMnVWOn2I8CMXhe5lliVW/OFaJYJ7DA==
+length: 1506
 -->
