@@ -15,6 +15,16 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.1",
+          "buildVersion": "2",
+          "date": "2026-11-16T09:34:57Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.1/ApkaDoFaktur-0.1.1.ipa",
+          "size": 5135688,
+          "sha256": "06ce8012da26e429279c23a64df5eed178513eaf3abb294b4ed881cb2dc65d6b",
+          "minOSVersion": "17.0",
+          "localizedDescription": "Wydanie iOS i iPadOS zsynchronizowane z wersją 0.1.1 aplikacji na macOS."
+        },
+        {
           "version": "0.1.0",
           "buildVersion": "1",
           "date": "2026-11-16T09:24:59Z",
@@ -25,7 +35,7 @@
           "localizedDescription": "Pierwsze wydanie nowej Apki do Faktur na iPhone’a i iPada z iOS lub iPadOS 17 albo nowszym.\n\n- Przychody pokazują faktury, szkice i korekty na jednej liście.\n- Płatności pozwalają importować CSV lub pobierać transakcje przez Enable Banking oraz powiązać je z fakturami.\n- Dodawanie faktury otwiera pływający formularz.\n\nTa aplikacja ma nowy identyfikator. Starszą wersję można zostawić zainstalowaną. Dane lokalne obu wersji są osobne."
         }
       ],
-      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-macos-v0.1.0/apkadofaktur-icon.png",
+      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.1/apkadofaktur-icon.png",
       "appPermissions": {
         "entitlements": [],
         "privacy": {
