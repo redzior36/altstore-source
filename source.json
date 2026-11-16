@@ -15,6 +15,16 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.2",
+          "buildVersion": "3",
+          "date": "2026-11-16T14:09:44Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.2/ApkaDoFaktur-0.1.2.ipa",
+          "size": 5205661,
+          "sha256": "7cfa465296ced15992200d318eeca8ce955b75d4a17fe786cd7f9cc04ce615de",
+          "minOSVersion": "17.0",
+          "localizedDescription": "- Kreator konfiguracji pozwala zalogować się do Supabase i wybrać istniejący projekt. Aplikacja pobiera dane połączenia i stosuje brakujące migracje po potwierdzeniu MFA.\n- Kreator umożliwia utworzenie konta użytkownika w projekcie, który zezwala na rejestrację. Nadal można skonfigurować połączenie ręcznie lub je wczytać z pliku."
+        },
+        {
           "version": "0.1.1",
           "buildVersion": "2",
           "date": "2026-11-16T09:34:57Z",
@@ -35,7 +45,7 @@
           "localizedDescription": "Pierwsze wydanie nowej Apki do Faktur na iPhone’a i iPada z iOS lub iPadOS 17 albo nowszym.\n\n- Przychody pokazują faktury, szkice i korekty na jednej liście.\n- Płatności pozwalają importować CSV lub pobierać transakcje przez Enable Banking oraz powiązać je z fakturami.\n- Dodawanie faktury otwiera pływający formularz.\n\nTa aplikacja ma nowy identyfikator. Starszą wersję można zostawić zainstalowaną. Dane lokalne obu wersji są osobne."
         }
       ],
-      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.1/apkadofaktur-icon.png",
+      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.2/apkadofaktur-icon.png",
       "appPermissions": {
         "entitlements": [],
         "privacy": {
