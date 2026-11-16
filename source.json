@@ -15,6 +15,16 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.7",
+          "buildVersion": "8",
+          "date": "2026-11-16T22:17:10Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.7/ApkaDoFaktur-0.1.7.ipa",
+          "size": 5379868,
+          "sha256": "8658494433320a9fa0b937a379fa7c29ba9b36874f504392c83c8d5086f4ed36",
+          "minOSVersion": "17.0",
+          "localizedDescription": "- Enable Banking ma jeden kreator. Apka rejestruje integrację, wdraża brakującą funkcję i zapisuje sekrety w Supabase. Kreator prowadzi również przez wybór banku i zgodę na dostęp do rachunku.\n- Dane firmy można pobrać po NIP z wykazu VAT. Kreator pierwszej konfiguracji ma krok „Dane firmy”.\n- Formularz certyfikatu KSeF pokazuje stan plików .crt i .key oraz dokładniejsze błędy. Po błędzie można ponowić próbę z tymi samymi plikami.\n\nAutomatyczny zapis konfiguracji Enable Banking wymaga uprawnień Secrets Write i Edge Functions Write w integracji OAuth Supabase."
+        },
+        {
           "version": "0.1.6",
           "buildVersion": "7",
           "date": "2026-11-16T19:07:20Z",
@@ -85,7 +95,7 @@
           "localizedDescription": "Pierwsze wydanie nowej Apki do Faktur na iPhone’a i iPada z iOS lub iPadOS 17 albo nowszym.\n\n- Przychody pokazują faktury, szkice i korekty na jednej liście.\n- Płatności pozwalają importować CSV lub pobierać transakcje przez Enable Banking oraz powiązać je z fakturami.\n- Dodawanie faktury otwiera pływający formularz.\n\nTa aplikacja ma nowy identyfikator. Starszą wersję można zostawić zainstalowaną. Dane lokalne obu wersji są osobne."
         }
       ],
-      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.6/apkadofaktur-icon.png",
+      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.7/apkadofaktur-icon.png",
       "appPermissions": {
         "entitlements": [],
         "privacy": {
