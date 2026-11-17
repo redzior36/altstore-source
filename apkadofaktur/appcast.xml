@@ -4,19 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Apka do Faktur</title>
         <item>
-            <title>0.1.8</title>
-            <pubDate>Tue, 17 Nov 2026 01:51:38 +0100</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+            <title>0.1.9</title>
+            <pubDate>Tue, 17 Nov 2026 16:18:23 +0100</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- Uzupełnianie danych po NIP-ie korzysta z CEIDG, wykazu VAT i KRS. Dla jednoosobowej działalności aplikacja pobiera pełną nazwę firmy z CEIDG.
-- Kreator pierwszej konfiguracji pozwala uzupełnić dane firmy. Formularze mają osobne pola adresu, REGON-u, telefonu, rachunku i adresu korespondencyjnego. Bank jest dobierany na podstawie rachunku.
-- Usprawniono konfigurację Enable Banking oraz obsługę wyboru plików certyfikatu i klucza KSeF.
+            <description sparkle:format="markdown"><![CDATA[- Na iPhonie i iPadzie wzmocniono ochronę lokalnej bazy faktur i załączników. Na macOS ograniczono dostęp do plików do właściciela.
+- Podglądy i tymczasowe eksporty PDF są usuwane po zablokowaniu lub ponownym otwarciu obszaru roboczego i pomijane przez kopie zapasowe. Faktury i oryginały załączników pozostają w kopii.
+- Kreator Enable Banking dołącza poprawioną funkcję z limitem rozmiaru żądania.
 ]]></description>
-            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.8/ApkaDoFaktur-0.1.8-macOS.zip" length="11824956" type="application/octet-stream" sparkle:edSignature="iwFaGrXNJ06Y2wSGeEvGGzVu0E9JneApRma4rux8FuzQ1nIG0L+gp4mOzuj0co1naRav5NrtyHXW+W9OTWsrCA=="></enclosure>
+            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.9/ApkaDoFaktur-0.1.9-macOS.zip" length="11838957" type="application/octet-stream" sparkle:edSignature="fRvM75RzZKj9HCqC6H7NlO8geb6QGPAUzv+ITMJ/3v8GQkg+TXBeQdYNPfKPgnguUVSHWs+hoUNermxaMRODDA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: SUHQnyutHPYTtybOayNcixGUPNZekzJWdLBO3c9zDG05BeHFv4BrMT/c4T5DGoW6yFsKFeRMm3nY6baS/x1ZAQ==
-length: 1610
+edSignature: +tqfGK/LANaqyBn7wD08lYEE2o/ZPFE/ACAQOR9erF61IACA72Y4MQdnFFZ54/egbXeAvzGDL82DKw9U955IBQ==
+length: 1579
 -->

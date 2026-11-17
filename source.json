@@ -15,6 +15,16 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.9",
+          "buildVersion": "10",
+          "date": "2026-11-17T15:19:29Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.9/ApkaDoFaktur-0.1.9.ipa",
+          "size": 5577021,
+          "sha256": "8a0df1728e9325ca1c579f3a342db4fa0ea3e30c4c57192a7a9d928ca93e2bbf",
+          "minOSVersion": "17.0",
+          "localizedDescription": "- Na iPhonie i iPadzie wzmocniono ochronę lokalnej bazy faktur i załączników. Na macOS ograniczono dostęp do plików do właściciela.\n- Podglądy i tymczasowe eksporty PDF są usuwane po zablokowaniu lub ponownym otwarciu obszaru roboczego i pomijane przez kopie zapasowe. Faktury i oryginały załączników pozostają w kopii.\n- Kreator Enable Banking dołącza poprawioną funkcję z limitem rozmiaru żądania."
+        },
+        {
           "version": "0.1.8",
           "buildVersion": "9",
           "date": "2026-11-17T00:53:18Z",
@@ -105,7 +115,7 @@
           "localizedDescription": "Pierwsze wydanie nowej Apki do Faktur na iPhone’a i iPada z iOS lub iPadOS 17 albo nowszym.\n\n- Przychody pokazują faktury, szkice i korekty na jednej liście.\n- Płatności pozwalają importować CSV lub pobierać transakcje przez Enable Banking oraz powiązać je z fakturami.\n- Dodawanie faktury otwiera pływający formularz.\n\nTa aplikacja ma nowy identyfikator. Starszą wersję można zostawić zainstalowaną. Dane lokalne obu wersji są osobne."
         }
       ],
-      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.8/apkadofaktur-icon.png",
+      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.9/apkadofaktur-icon.png",
       "appPermissions": {
         "entitlements": [],
         "privacy": {
