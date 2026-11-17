@@ -15,6 +15,16 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.8",
+          "buildVersion": "9",
+          "date": "2026-11-17T00:53:18Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.8/ApkaDoFaktur-0.1.8.ipa",
+          "size": 5569769,
+          "sha256": "6b0b1e72e826dc8ed24d9b377176d158dec5064b9eaa5b021834f34d869da381",
+          "minOSVersion": "17.0",
+          "localizedDescription": "- Uzupełnianie danych po NIP-ie korzysta z CEIDG, wykazu VAT i KRS. Dla jednoosobowej działalności aplikacja pobiera pełną nazwę firmy z CEIDG.\n- Kreator pierwszej konfiguracji pozwala uzupełnić dane firmy. Formularze mają osobne pola adresu, REGON-u, telefonu, rachunku i adresu korespondencyjnego. Bank jest dobierany na podstawie rachunku.\n- Usprawniono konfigurację Enable Banking oraz obsługę wyboru plików certyfikatu i klucza KSeF."
+        },
+        {
           "version": "0.1.7",
           "buildVersion": "8",
           "date": "2026-11-16T22:17:10Z",
@@ -95,7 +105,7 @@
           "localizedDescription": "Pierwsze wydanie nowej Apki do Faktur na iPhone’a i iPada z iOS lub iPadOS 17 albo nowszym.\n\n- Przychody pokazują faktury, szkice i korekty na jednej liście.\n- Płatności pozwalają importować CSV lub pobierać transakcje przez Enable Banking oraz powiązać je z fakturami.\n- Dodawanie faktury otwiera pływający formularz.\n\nTa aplikacja ma nowy identyfikator. Starszą wersję można zostawić zainstalowaną. Dane lokalne obu wersji są osobne."
         }
       ],
-      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.7/apkadofaktur-icon.png",
+      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.8/apkadofaktur-icon.png",
       "appPermissions": {
         "entitlements": [],
         "privacy": {
