@@ -4,18 +4,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>NextCue</title>
         <item>
-            <title>0.7.3</title>
-            <pubDate>Mon, 09 Nov 2026 21:46:03 +0100</pubDate>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>0.7.3</sparkle:shortVersionString>
+            <title>0.7.4</title>
+            <pubDate>Tue, 17 Nov 2026 13:43:07 +0100</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>0.7.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>NextCue 0.7.3</h2>
-<p>Eksport PDF zachowuje kolejność kart Cue z panelu aplikacji. Kolejność jest kontynuowana w dodatkowych kolumnach po obu stronach scenariusza.</p>
+            <description><![CDATA[<ul>
+<li>Import PDF działa w tle i zachowuje edycje wykonane w trakcie odczytu. Aplikacja informuje o przekroczeniu limitu rozmiaru pliku.</li>
+<li>Odczyt projektów i usuwanie elementów biblioteki lepiej chronią przed przekierowaniem ścieżek. Starsze projekty pozostają obsługiwane.</li>
+<li>OSC domyślnie nasłuchuje lokalnie. Do sterowania przez LAN wpisz w ustawieniach OSC adresy IP nadajników. Adresy i format komunikatów OSC pozostają zgodne. Odbiornik ogranicza ruch i zwalnia bezczynne sesje.</li>
+<li>Dodano automatyczne kontrole jakości i bezpieczeństwa oraz testy regresyjne importu, plików i OSC.</li>
+</ul>
 ]]></description>
-            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/nextcue-v0.7.3/NextCue-0.7.3.dmg" length="3349012" type="application/octet-stream" sparkle:edSignature="MrJ8Xsig6f+u1JdFPRV/144IhaYVoWDp2o6eTmuxDg3XeVANsHPybzu3kSnACmF+LePkWvySqXVdMhQe7CQTCg=="></enclosure>
+            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/nextcue-v0.7.4/NextCue-0.7.4.dmg" length="3400899" type="application/octet-stream" sparkle:edSignature="6aRqb40Km7uqHZHeOcwYUYln4zcCScPa/Mf7R5LV+DGxiStuB+y+hTPrWcHiDfqyRtSmrTe2BNqwmQxBx67EBg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: oJqM9x1tsKs6qcfC2VcMilpqK6AGHIehp6ArmUCKDVeWP68gjYEUj+b5LJGJ0xjkV4oRWObwACgcwpEEBbKwAQ==
-length: 1284
+edSignature: HlgrQc+pX4V0xnQyKconxEmuprOUiyuGHmpsnxyV8l2ZkzMF+sw51+ucoy111uu0PGkAfT0tc+ISscAFkM/5DA==
+length: 1743
 -->

@@ -181,6 +181,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.7.4",
+          "buildVersion": "17",
+          "date": "2026-11-17T12:43:50Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/nextcue-v0.7.4/NextCue-0.7.4.ipa",
+          "size": 958807,
+          "minOSVersion": "17.0",
+          "localizedDescription": "Import PDF w tle, bezpieczniejszy odczyt i usuwanie projektów. Sterowanie OSC z LAN wymaga listy adresów IP nadajników."
+        },
+        {
           "version": "0.7.3",
           "buildVersion": "16",
           "date": "2026-11-09T20:46:07Z",
