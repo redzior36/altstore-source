@@ -15,6 +15,16 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.12",
+          "buildVersion": "13",
+          "date": "2026-11-21T23:51:56Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.12/ApkaDoFaktur-0.1.12.ipa",
+          "size": 5689889,
+          "sha256": "78e554d84118449e3798fc1e5078161b7d4b1378a4d604c15eb08525d12d0a22",
+          "minOSVersion": "17.0",
+          "localizedDescription": "- Zapis faktury sprzedażowej nadaje numer i datę w Supabase. Szkic i ręczna wysyłka do KSeF mają osobne przyciski.\n- Górny pasek pokazuje synchronizację i stan połączeń Supabase i KSeF."
+        },
+        {
           "version": "0.1.11",
           "buildVersion": "12",
           "date": "2026-11-21T23:37:14Z",
@@ -135,7 +145,7 @@
           "localizedDescription": "Pierwsze wydanie nowej Apki do Faktur na iPhone’a i iPada z iOS lub iPadOS 17 albo nowszym.\n\n- Przychody pokazują faktury, szkice i korekty na jednej liście.\n- Płatności pozwalają importować CSV lub pobierać transakcje przez Enable Banking oraz powiązać je z fakturami.\n- Dodawanie faktury otwiera pływający formularz.\n\nTa aplikacja ma nowy identyfikator. Starszą wersję można zostawić zainstalowaną. Dane lokalne obu wersji są osobne."
         }
       ],
-      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.11/apkadofaktur-icon.png",
+      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.12/apkadofaktur-icon.png",
       "appPermissions": {
         "entitlements": [],
         "privacy": {
