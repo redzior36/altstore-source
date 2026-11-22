@@ -4,19 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Apka do Faktur</title>
         <item>
-            <title>0.1.17</title>
-            <pubDate>Mon, 23 Nov 2026 00:09:11 +0100</pubDate>
-            <sparkle:version>19</sparkle:version>
-            <sparkle:shortVersionString>0.1.17</sparkle:shortVersionString>
+            <title>0.1.18</title>
+            <pubDate>Mon, 23 Nov 2026 00:42:19 +0100</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>0.1.18</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- Dodano przycisk zamykania okna Enable Banking w widoku Płatności.
-- Jeśli pobranie z jednego rachunku się nie powiedzie, aplikacja zapisze historię z wcześniej pobranych rachunków.
-- Przy limicie zapytań aplikacja pokazuje termin ponowienia, jeśli Enable Banking go podaje.
+            <description sparkle:format="markdown"><![CDATA[- Kartoteka pokazuje kontrahentów i produkty z zapisanych faktur sprzedażowych. Z faktury kosztowej można dodać pozycje ręcznie.
+- Inspektor Przychodów i Kosztów pokazuje daty, dane kontrahenta i rozliczenie. Pełny dokument otwiera przycisk „Otwórz fakturę”.
+- Listy faktur pokazują osobne oznaczenia synchronizacji z Supabase i płatności.
 ]]></description>
-            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.17/ApkaDoFaktur-0.1.17-macOS.zip" length="12174583" type="application/octet-stream" sparkle:edSignature="QEmOIZzj5FTeQuyhH7mpnloHbbBLZfRV/E1m8WapHBfz3P8Rt78A5GuW7+MRL2TVBF3XMUWAJEX7IOI7cCpIDw=="></enclosure>
+            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.18/ApkaDoFaktur-0.1.18-macOS.zip" length="12370385" type="application/octet-stream" sparkle:edSignature="Exuda2dUAn0KXSIO33nPwrhQloas67F2uwVbgDiiL+65sFXUoXvSoV5jJzWGPxH4e7CmTtNdZoF3SvPo4jgSBg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 9sR6QOmVtC3KfTSqp8aw/kXup2aRZjVV9G6uWFZygMntpMxc1YCCPNOYSPD/j0vhbCgi539beRS/J8UZjl3tCg==
-length: 1447
+edSignature: QFoGLEGkHi022zTQyzFU0ZdPts9kkZ/W7lXnGY6kHY7bDEXxxMJ8dwQWQJRijKuntF01dWf9dhiUrawO5JwrBQ==
+length: 1519
 -->
