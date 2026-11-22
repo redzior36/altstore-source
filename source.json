@@ -15,6 +15,16 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.18",
+          "buildVersion": "19",
+          "date": "2026-11-22T23:42:58Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.18/ApkaDoFaktur-0.1.18.ipa",
+          "size": 5843883,
+          "sha256": "f4ec2876bdf526c483257ffe2d15fc6e93a03dbde7a2538f86526df8b8726634",
+          "minOSVersion": "17.0",
+          "localizedDescription": "- Kartoteka pokazuje kontrahentów i produkty z zapisanych faktur sprzedażowych. Z faktury kosztowej można dodać pozycje ręcznie.\n- Inspektor Przychodów i Kosztów pokazuje daty, dane kontrahenta i rozliczenie. Pełny dokument otwiera przycisk „Otwórz fakturę”.\n- Listy faktur pokazują osobne oznaczenia synchronizacji z Supabase i płatności."
+        },
+        {
           "version": "0.1.17",
           "buildVersion": "18",
           "date": "2026-11-22T23:11:21Z",
@@ -195,7 +205,7 @@
           "localizedDescription": "Pierwsze wydanie nowej Apki do Faktur na iPhone’a i iPada z iOS lub iPadOS 17 albo nowszym.\n\n- Przychody pokazują faktury, szkice i korekty na jednej liście.\n- Płatności pozwalają importować CSV lub pobierać transakcje przez Enable Banking oraz powiązać je z fakturami.\n- Dodawanie faktury otwiera pływający formularz.\n\nTa aplikacja ma nowy identyfikator. Starszą wersję można zostawić zainstalowaną. Dane lokalne obu wersji są osobne."
         }
       ],
-      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.17/apkadofaktur-icon.png",
+      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.18/apkadofaktur-icon.png",
       "appPermissions": {
         "entitlements": [],
         "privacy": {
