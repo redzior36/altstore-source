@@ -15,6 +15,16 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.14",
+          "buildVersion": "15",
+          "date": "2026-11-22T22:17:55Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.14/ApkaDoFaktur-0.1.14.ipa",
+          "size": 5723395,
+          "sha256": "9b9b90b38e8871b09d2d886c8cc0cebd8728838d0ac6858934493eaf67f49a01",
+          "minOSVersion": "17.0",
+          "localizedDescription": "- Kreator Enable Banking obsługuje potwierdzenie logowania kodem z aplikacji uwierzytelniającej (TOTP)."
+        },
+        {
           "version": "0.1.13",
           "buildVersion": "14",
           "date": "2026-11-22T00:12:24Z",
@@ -155,7 +165,7 @@
           "localizedDescription": "Pierwsze wydanie nowej Apki do Faktur na iPhone’a i iPada z iOS lub iPadOS 17 albo nowszym.\n\n- Przychody pokazują faktury, szkice i korekty na jednej liście.\n- Płatności pozwalają importować CSV lub pobierać transakcje przez Enable Banking oraz powiązać je z fakturami.\n- Dodawanie faktury otwiera pływający formularz.\n\nTa aplikacja ma nowy identyfikator. Starszą wersję można zostawić zainstalowaną. Dane lokalne obu wersji są osobne."
         }
       ],
-      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.13/apkadofaktur-icon.png",
+      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.14/apkadofaktur-icon.png",
       "appPermissions": {
         "entitlements": [],
         "privacy": {
