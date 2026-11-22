@@ -15,6 +15,16 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.16",
+          "buildVersion": "17",
+          "date": "2026-11-22T22:55:17Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.16/ApkaDoFaktur-0.1.16.ipa",
+          "size": 5729984,
+          "sha256": "7bcfd90f1d49c2d319d3d584dfed497cae029bebe1178b3ca6a6d6819751aec8",
+          "minOSVersion": "17.0",
+          "localizedDescription": "- Import Enable Banking pobiera domyślnie transakcje ze wszystkich rachunków objętych zgodą. Nadal można wybrać jeden rachunek."
+        },
+        {
           "version": "0.1.15",
           "buildVersion": "16",
           "date": "2026-11-22T22:43:45Z",
@@ -175,7 +185,7 @@
           "localizedDescription": "Pierwsze wydanie nowej Apki do Faktur na iPhone’a i iPada z iOS lub iPadOS 17 albo nowszym.\n\n- Przychody pokazują faktury, szkice i korekty na jednej liście.\n- Płatności pozwalają importować CSV lub pobierać transakcje przez Enable Banking oraz powiązać je z fakturami.\n- Dodawanie faktury otwiera pływający formularz.\n\nTa aplikacja ma nowy identyfikator. Starszą wersję można zostawić zainstalowaną. Dane lokalne obu wersji są osobne."
         }
       ],
-      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.15/apkadofaktur-icon.png",
+      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.16/apkadofaktur-icon.png",
       "appPermissions": {
         "entitlements": [],
         "privacy": {
