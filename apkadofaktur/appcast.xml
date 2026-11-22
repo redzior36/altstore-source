@@ -4,18 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Apka do Faktur</title>
         <item>
-            <title>0.1.12</title>
-            <pubDate>Sun, 22 Nov 2026 00:51:08 +0100</pubDate>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
+            <title>0.1.13</title>
+            <pubDate>Sun, 22 Nov 2026 01:11:21 +0100</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>0.1.13</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- Zapis faktury sprzedażowej nadaje numer i datę w Supabase. Szkic i ręczna wysyłka do KSeF mają osobne przyciski.
-- Górny pasek pokazuje synchronizację i stan połączeń Supabase i KSeF.
+            <description sparkle:format="markdown"><![CDATA[- Zaktualizowano logowanie Enable Banking do ścieżki używanej przez panel dostawcy i doprecyzowano komunikaty przy wymianie kodu jednorazowego.
 ]]></description>
-            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.12/ApkaDoFaktur-0.1.12-macOS.zip" length="12059230" type="application/octet-stream" sparkle:edSignature="TRNEmY+F0M2lRH1/qV05bTweUdCet4If+G5AfvXR8EtrWB/ms0bkutl1BvTOXvS3TNLAJwd6eUcTPx4r1yn+Bg=="></enclosure>
+            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.13/ApkaDoFaktur-0.1.13-macOS.zip" length="12077651" type="application/octet-stream" sparkle:edSignature="dnEXXWxX+r5KRySxsDFUDzMfAHdBYT49hGDP5TyrBR8rTN+Xulk//v4NJVBFlj8nGNXNNoYUb5Vk09PpPf48Dw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: f9cuNMGQ/bucJOSCut4I+8dYbPxyRDDBRwUaPG7TNqyKgWw2VbnafPneMjKkSVCLHjWVALuuSgnETFmzQsQSBw==
-length: 1358
+edSignature: BIV51INrGdZH5MxCogDgfDnvRfmhWWHihJMH/gBM4zEJWJ6U2x6qDF+DTavvcSAUZbqv0CjUSu21BDZP1VlCCg==
+length: 1309
 -->
