@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Apka do Faktur</title>
         <item>
-            <title>0.1.15</title>
-            <pubDate>Sun, 22 Nov 2026 23:43:06 +0100</pubDate>
-            <sparkle:version>17</sparkle:version>
-            <sparkle:shortVersionString>0.1.15</sparkle:shortVersionString>
+            <title>0.1.16</title>
+            <pubDate>Sun, 22 Nov 2026 23:54:42 +0100</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>0.1.16</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- Naprawiono awarię macOS po otwarciu strony autoryzacji Enable Banking.
+            <description sparkle:format="markdown"><![CDATA[- Import Enable Banking pobiera domyślnie transakcje ze wszystkich rachunków objętych zgodą. Nadal można wybrać jeden rachunek.
 ]]></description>
-            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.15/ApkaDoFaktur-0.1.15-macOS.zip" length="12131494" type="application/octet-stream" sparkle:edSignature="SUEbABq3i/PoWR8qNUaG4tG/XVLEkpDAb1HLiy99I32Lvlhf6O1/IIl7ou3Hj2j1/auILuiQInTSVeaxadT8Ag=="></enclosure>
+            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.16/ApkaDoFaktur-0.1.16-macOS.zip" length="12140261" type="application/octet-stream" sparkle:edSignature="StaaS1+18EkZ2LMHPPhM+/wKddh8rKdGQj9YgAo2KiFEQf+HG3W/CIlZt6PcxJSxuS1tkz6JNfHWRdjTQImYCw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: r/fAw/VhJSj/A5CDKU0If2o5zWPCghHt/5GSKpxcjD3gQUh5mO/EkmPHB4BbOxqlFkno4WSGwFA0Rwtqap+FAg==
-length: 1236
+edSignature: ulZmiI6RtBN7W9JTc8gDCEudolq8Fq1p653YsVjxJyMH0wF3AgLZi7AEtKtpaMd5QrtJtmtsucURzo+XLlIMAw==
+length: 1296
 -->
