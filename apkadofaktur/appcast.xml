@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Apka do Faktur</title>
         <item>
-            <title>0.1.13</title>
-            <pubDate>Sun, 22 Nov 2026 01:11:21 +0100</pubDate>
-            <sparkle:version>15</sparkle:version>
-            <sparkle:shortVersionString>0.1.13</sparkle:shortVersionString>
+            <title>0.1.14</title>
+            <pubDate>Sun, 22 Nov 2026 23:17:20 +0100</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>0.1.14</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- Zaktualizowano logowanie Enable Banking do ścieżki używanej przez panel dostawcy i doprecyzowano komunikaty przy wymianie kodu jednorazowego.
+            <description sparkle:format="markdown"><![CDATA[- Kreator Enable Banking obsługuje potwierdzenie logowania kodem z aplikacji uwierzytelniającej (TOTP).
 ]]></description>
-            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.13/ApkaDoFaktur-0.1.13-macOS.zip" length="12077651" type="application/octet-stream" sparkle:edSignature="dnEXXWxX+r5KRySxsDFUDzMfAHdBYT49hGDP5TyrBR8rTN+Xulk//v4NJVBFlj8nGNXNNoYUb5Vk09PpPf48Dw=="></enclosure>
+            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.14/ApkaDoFaktur-0.1.14-macOS.zip" length="12129031" type="application/octet-stream" sparkle:edSignature="CcFI5AA1DzfdEu9olxn/R/3Fe4+xMjxrbajmUh5D9p3lSg5WNyeRnHDOlLi7hO2Anq2qmm5dMQUgEEAcD7SWAg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: BIV51INrGdZH5MxCogDgfDnvRfmhWWHihJMH/gBM4zEJWJ6U2x6qDF+DTavvcSAUZbqv0CjUSu21BDZP1VlCCg==
-length: 1309
+edSignature: IAbDadt9Deefyz/xWLPsAcY7+VTgVqItL92ZPe8kjxvZqtRb/fJ6HeplFubxDziDmk9Pkji2aSuV38GxYd7oDg==
+length: 1268
 -->
