@@ -15,6 +15,16 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.17",
+          "buildVersion": "18",
+          "date": "2026-11-22T23:11:21Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.17/ApkaDoFaktur-0.1.17.ipa",
+          "size": 5745513,
+          "sha256": "7738bbdd551740f547e2aad426b2df97670919c86c6a6cb3e719098ef2bf593a",
+          "minOSVersion": "17.0",
+          "localizedDescription": "- Dodano przycisk zamykania okna Enable Banking w widoku Płatności.\n- Jeśli pobranie z jednego rachunku się nie powiedzie, aplikacja zapisze historię z wcześniej pobranych rachunków.\n- Przy limicie zapytań aplikacja pokazuje termin ponowienia, jeśli Enable Banking go podaje."
+        },
+        {
           "version": "0.1.16",
           "buildVersion": "17",
           "date": "2026-11-22T22:55:17Z",
@@ -185,7 +195,7 @@
           "localizedDescription": "Pierwsze wydanie nowej Apki do Faktur na iPhone’a i iPada z iOS lub iPadOS 17 albo nowszym.\n\n- Przychody pokazują faktury, szkice i korekty na jednej liście.\n- Płatności pozwalają importować CSV lub pobierać transakcje przez Enable Banking oraz powiązać je z fakturami.\n- Dodawanie faktury otwiera pływający formularz.\n\nTa aplikacja ma nowy identyfikator. Starszą wersję można zostawić zainstalowaną. Dane lokalne obu wersji są osobne."
         }
       ],
-      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.16/apkadofaktur-icon.png",
+      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.17/apkadofaktur-icon.png",
       "appPermissions": {
         "entitlements": [],
         "privacy": {
