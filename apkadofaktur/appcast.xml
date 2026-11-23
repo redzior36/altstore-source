@@ -4,19 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Apka do Faktur</title>
         <item>
-            <title>0.1.18</title>
-            <pubDate>Mon, 23 Nov 2026 00:42:19 +0100</pubDate>
-            <sparkle:version>20</sparkle:version>
-            <sparkle:shortVersionString>0.1.18</sparkle:shortVersionString>
+            <title>0.1.19</title>
+            <pubDate>Mon, 23 Nov 2026 01:12:05 +0100</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>0.1.19</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- Kartoteka pokazuje kontrahentów i produkty z zapisanych faktur sprzedażowych. Z faktury kosztowej można dodać pozycje ręcznie.
-- Inspektor Przychodów i Kosztów pokazuje daty, dane kontrahenta i rozliczenie. Pełny dokument otwiera przycisk „Otwórz fakturę”.
-- Listy faktur pokazują osobne oznaczenia synchronizacji z Supabase i płatności.
+            <description sparkle:format="markdown"><![CDATA[- Kartoteki pokazują liczbę powiązanych faktur i pozwalają otworzyć każdą z nich.
+- Wybór faktury otwiera pełny dokument. Menu wiersza daje dostęp do wysyłki do KSeF, eksportu PDF i zmiany statusu płatności.
+- Miesiące w Przychodach i Kosztach można zwijać. Przeterminowane płatności są oznaczone na czerwono.
+- Poprawiono układ wierszy i nagłówków list, aby treść mieściła się od pierwszego wyświetlenia.
 ]]></description>
-            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.18/ApkaDoFaktur-0.1.18-macOS.zip" length="12370385" type="application/octet-stream" sparkle:edSignature="Exuda2dUAn0KXSIO33nPwrhQloas67F2uwVbgDiiL+65sFXUoXvSoV5jJzWGPxH4e7CmTtNdZoF3SvPo4jgSBg=="></enclosure>
+            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.19/ApkaDoFaktur-0.1.19-macOS.zip" length="12567608" type="application/octet-stream" sparkle:edSignature="o0QXw6dn9nH1OuDVA2tOuO37fC2afPgKOIIYTHIRcrJ9g2A/SknkA4eF2ExtlSs4hT20MQMCnCEULwXMbaNECg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: QFoGLEGkHi022zTQyzFU0ZdPts9kkZ/W7lXnGY6kHY7bDEXxxMJ8dwQWQJRijKuntF01dWf9dhiUrawO5JwrBQ==
-length: 1519
+edSignature: g46fxA6GdxG/rXomiJH6glpWQfjYLWKUqIVcRhsTuSk53GkXUhuNTYtZBadaQLmsZjPmroGy0IA07lFhN6gPDw==
+length: 1597
 -->
