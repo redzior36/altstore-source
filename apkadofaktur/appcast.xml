@@ -4,20 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Apka do Faktur</title>
         <item>
-            <title>0.1.19</title>
-            <pubDate>Mon, 23 Nov 2026 01:12:05 +0100</pubDate>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>0.1.19</sparkle:shortVersionString>
+            <title>0.1.20</title>
+            <pubDate>Mon, 23 Nov 2026 10:41:35 +0100</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>0.1.20</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- Kartoteki pokazują liczbę powiązanych faktur i pozwalają otworzyć każdą z nich.
-- Wybór faktury otwiera pełny dokument. Menu wiersza daje dostęp do wysyłki do KSeF, eksportu PDF i zmiany statusu płatności.
-- Miesiące w Przychodach i Kosztach można zwijać. Przeterminowane płatności są oznaczone na czerwono.
-- Poprawiono układ wierszy i nagłówków list, aby treść mieściła się od pierwszego wyświetlenia.
+            <description sparkle:format="markdown"><![CDATA[- Zmieniono układ przewijania Przychodów, Kosztów, Podsumowania, Płatności i Kartotek.
+- Poprawiono czytelność oznaczeń, dodano niebieską etykietę KSeF i większy przycisk akcji.
+- Szczegóły kontrahenta lub produktu pokazują powiązane faktury u dołu.
+- Podgląd faktury ma daty i strony dokumentu w dwóch kolumnach, tabelę pozycji z sumą, sekcję płatności, numer KSeF, lokalne komentarze i poziomy rząd akcji.
 ]]></description>
-            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.19/ApkaDoFaktur-0.1.19-macOS.zip" length="12567608" type="application/octet-stream" sparkle:edSignature="o0QXw6dn9nH1OuDVA2tOuO37fC2afPgKOIIYTHIRcrJ9g2A/SknkA4eF2ExtlSs4hT20MQMCnCEULwXMbaNECg=="></enclosure>
+            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.20/ApkaDoFaktur-0.1.20-macOS.zip" length="12712721" type="application/octet-stream" sparkle:edSignature="P2ZtPe6PdkwTFR7qykU00Qb0Ic1Ps9VwdiWcqX8/NNPGrggm3ZJFGco+xkytk3u73Z6rIjQeFlwD9s3eNwHqAw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: g46fxA6GdxG/rXomiJH6glpWQfjYLWKUqIVcRhsTuSk53GkXUhuNTYtZBadaQLmsZjPmroGy0IA07lFhN6gPDw==
-length: 1597
+edSignature: B1wCSi+PcqJP33op96z8YIni5n9ADh3OcdGI2N2zOjRBX87kms4ZYx2pHJ85hITgJVQoTJfZEjUAJOC1YzxrCQ==
+length: 1594
 -->
