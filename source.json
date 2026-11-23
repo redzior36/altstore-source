@@ -15,6 +15,16 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.21",
+          "buildVersion": "22",
+          "date": "2026-11-23T23:14:33Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.21/ApkaDoFaktur-0.1.21.ipa",
+          "size": 6108700,
+          "sha256": "207736f1e01bb9c8d04e84c29fe6af836170da9c5fc827bd0fba44123a3ed47a",
+          "minOSVersion": "17.0",
+          "localizedDescription": "- Wyśrodkowano podgląd faktury i wydzielono dane firmy do osobnego okna w ustawieniach.\n- Edytor PDF obsługuje logo i przeciąganie bloków na podglądzie, wyrównanie, rozmiar tekstu oraz pogrubienie.\n- Dodano trzy rodzaje szablonów e-mail i wysyłkę gotowej faktury z menu dokumentu.\n- Skrócono wiersze faktur do dwóch linii. Płatności mają akcje dostępne bezpośrednio na liście. Na listach działa menu kontekstowe.\n- Dodano podpowiedzi w formularzach i wybór zakresu pobierania z Enable Banking."
+        },
+        {
           "version": "0.1.20",
           "buildVersion": "21",
           "date": "2026-11-23T09:43:57Z",
@@ -225,7 +235,7 @@
           "localizedDescription": "Pierwsze wydanie nowej Apki do Faktur na iPhone’a i iPada z iOS lub iPadOS 17 albo nowszym.\n\n- Przychody pokazują faktury, szkice i korekty na jednej liście.\n- Płatności pozwalają importować CSV lub pobierać transakcje przez Enable Banking oraz powiązać je z fakturami.\n- Dodawanie faktury otwiera pływający formularz.\n\nTa aplikacja ma nowy identyfikator. Starszą wersję można zostawić zainstalowaną. Dane lokalne obu wersji są osobne."
         }
       ],
-      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.20/apkadofaktur-icon.png",
+      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.21/apkadofaktur-icon.png",
       "appPermissions": {
         "entitlements": [],
         "privacy": {
