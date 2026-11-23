@@ -15,6 +15,16 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.20",
+          "buildVersion": "21",
+          "date": "2026-11-23T09:43:57Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.20/ApkaDoFaktur-0.1.20.ipa",
+          "size": 5996628,
+          "sha256": "14609132ba5be0da43905bf2c7531561c5f3410a53eb16fee2600dee406884d1",
+          "minOSVersion": "17.0",
+          "localizedDescription": "- Zmieniono układ przewijania Przychodów, Kosztów, Podsumowania, Płatności i Kartotek.\n- Poprawiono czytelność oznaczeń, dodano niebieską etykietę KSeF i większy przycisk akcji.\n- Szczegóły kontrahenta lub produktu pokazują powiązane faktury u dołu.\n- Podgląd faktury ma daty i strony dokumentu w dwóch kolumnach, tabelę pozycji z sumą, sekcję płatności, numer KSeF, lokalne komentarze i poziomy rząd akcji."
+        },
+        {
           "version": "0.1.19",
           "buildVersion": "20",
           "date": "2026-11-23T00:12:46Z",
@@ -215,7 +225,7 @@
           "localizedDescription": "Pierwsze wydanie nowej Apki do Faktur na iPhone’a i iPada z iOS lub iPadOS 17 albo nowszym.\n\n- Przychody pokazują faktury, szkice i korekty na jednej liście.\n- Płatności pozwalają importować CSV lub pobierać transakcje przez Enable Banking oraz powiązać je z fakturami.\n- Dodawanie faktury otwiera pływający formularz.\n\nTa aplikacja ma nowy identyfikator. Starszą wersję można zostawić zainstalowaną. Dane lokalne obu wersji są osobne."
         }
       ],
-      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.19/apkadofaktur-icon.png",
+      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.20/apkadofaktur-icon.png",
       "appPermissions": {
         "entitlements": [],
         "privacy": {
