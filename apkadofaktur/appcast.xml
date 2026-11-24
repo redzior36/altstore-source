@@ -4,19 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Apka do Faktur</title>
         <item>
-            <title>0.1.23</title>
-            <pubDate>Tue, 24 Nov 2026 02:08:55 +0100</pubDate>
-            <sparkle:version>25</sparkle:version>
-            <sparkle:shortVersionString>0.1.23</sparkle:shortVersionString>
+            <title>0.1.24</title>
+            <pubDate>Tue, 24 Nov 2026 20:06:39 +0100</pubDate>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>0.1.24</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- Nowy układ szablonów PDF: dane stron obok siebie, tabela pozycji z powtarzanym nagłówkiem oraz podsumowanie kwot i płatności.
-- W edytorze można zmieniać wygląd tabeli i pozostałe ustawienia wydruku.
-- Enable Banking rozpoznaje dodatkowy typ salda i zwraca kod zgłoszenia w razie odrzucenia operacji.
+            <description sparkle:format="markdown"><![CDATA[- Synci w Ustawieniach → Integracje. Osobisty token jest zapisywany w pęku kluczy urządzenia.
+- Płatności mogą pobierać zaksięgowane transakcje z wybranego lub wszystkich rachunków dostępnych w Synci.
+- Podsumowanie pokazuje saldo rachunków z ostatniej synchronizacji Synci.
 ]]></description>
-            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.23/ApkaDoFaktur-0.1.23-macOS.zip" length="13157689" type="application/octet-stream" sparkle:edSignature="liKSHGbtAkM8tql6cD7bdsRIBVvPsIwWIiVulUf2xI0dFrHLUUZiO6o3zBXtmS1/TM3KLFbb56LCoKkbyUgWCg=="></enclosure>
+            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.24/ApkaDoFaktur-0.1.24-macOS.zip" length="13348116" type="application/octet-stream" sparkle:edSignature="8BQr6TJ2nXXLIVP8H2GVWoM2HpY0XdK4rjZT+596aQdk2A/CAUX4Tsttn22glOtD7lf+cjarcvJTx/LdstV3AA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Bmwb7GI8F8NdCchIaz3pUO7Kuk8tfInbOqYSiICr9pUtXT/tQ2w0oYurL4XUVx2hASkivt8CYEtCcbvax7i8Dg==
-length: 1476
+edSignature: MeiWEtO2f+cx91zj+TwJu5ZylWRvTNTgntQ2+0mTh0vhieATIsGDEbcsidbZuAUeunDifEiH1PrHqoPRBa+bDA==
+length: 1449
 -->
