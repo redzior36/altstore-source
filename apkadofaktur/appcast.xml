@@ -4,21 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Apka do Faktur</title>
         <item>
-            <title>0.1.22</title>
-            <pubDate>Tue, 24 Nov 2026 01:09:18 +0100</pubDate>
-            <sparkle:version>24</sparkle:version>
-            <sparkle:shortVersionString>0.1.22</sparkle:shortVersionString>
+            <title>0.1.23</title>
+            <pubDate>Tue, 24 Nov 2026 02:08:55 +0100</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>0.1.23</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- Dane firmy są dostępne na osobnej stronie w Ustawieniach.
-- Edytor PDF ma cztery gotowe szablony oraz ustawienia typografii, odstępów i numeracji stron.
-- Podgląd faktury tworzy jeden dokument, z odnośnikami do szczegółów kontrahentów.
-- Podsumowanie pokazuje nieprzejrzane faktury, nieopłacone faktury z podziałem według terminu, bilans miesiąca i salda rachunków.
-- Komunikat pobierania transakcji rozróżnia odrzucenie przez bank od błędu zakresu dat.
+            <description sparkle:format="markdown"><![CDATA[- Nowy układ szablonów PDF: dane stron obok siebie, tabela pozycji z powtarzanym nagłówkiem oraz podsumowanie kwot i płatności.
+- W edytorze można zmieniać wygląd tabeli i pozostałe ustawienia wydruku.
+- Enable Banking rozpoznaje dodatkowy typ salda i zwraca kod zgłoszenia w razie odrzucenia operacji.
 ]]></description>
-            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.22/ApkaDoFaktur-0.1.22-macOS.zip" length="13104547" type="application/octet-stream" sparkle:edSignature="Mt6Pbgm2POu58clwgPqORLSpNhmUup8r6cn23/JVX2N/5J6G0AFYugGsEs9/Cdk3b4j91cnrLnAUD441K8htCw=="></enclosure>
+            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.23/ApkaDoFaktur-0.1.23-macOS.zip" length="13157689" type="application/octet-stream" sparkle:edSignature="liKSHGbtAkM8tql6cD7bdsRIBVvPsIwWIiVulUf2xI0dFrHLUUZiO6o3zBXtmS1/TM3KLFbb56LCoKkbyUgWCg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: v6xc9Iw9j01epAdLTO1/e9ODEF/JN52INL4wkeKd5inh5cDLZDx4UtR/WJhBTlCulva9kDg9PtDEG2eKg6WlCQ==
-length: 1637
+edSignature: Bmwb7GI8F8NdCchIaz3pUO7Kuk8tfInbOqYSiICr9pUtXT/tQ2w0oYurL4XUVx2hASkivt8CYEtCcbvax7i8Dg==
+length: 1476
 -->
