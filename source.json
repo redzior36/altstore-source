@@ -15,6 +15,16 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.25",
+          "buildVersion": "26",
+          "date": "2026-11-24T19:22:37Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.25/ApkaDoFaktur-0.1.25.ipa",
+          "size": 6305316,
+          "sha256": "088f9acdf0e25eb5d5477fbdb3979f02abfa5710033edf89056a92016c0e1a3b",
+          "minOSVersion": "17.0",
+          "localizedDescription": "- Naprawiono zapisywanie tokenu Synci w pęku kluczy w wersji macOS dostarczanej przez Sparkle.\n- Komunikaty o błędach pęku kluczy podają kod systemowy."
+        },
+        {
           "version": "0.1.24",
           "buildVersion": "25",
           "date": "2026-11-24T19:09:29Z",
@@ -265,7 +275,7 @@
           "localizedDescription": "Pierwsze wydanie nowej Apki do Faktur na iPhone’a i iPada z iOS lub iPadOS 17 albo nowszym.\n\n- Przychody pokazują faktury, szkice i korekty na jednej liście.\n- Płatności pozwalają importować CSV lub pobierać transakcje przez Enable Banking oraz powiązać je z fakturami.\n- Dodawanie faktury otwiera pływający formularz.\n\nTa aplikacja ma nowy identyfikator. Starszą wersję można zostawić zainstalowaną. Dane lokalne obu wersji są osobne."
         }
       ],
-      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.24/apkadofaktur-icon.png",
+      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.25/apkadofaktur-icon.png",
       "appPermissions": {
         "entitlements": [],
         "privacy": {
