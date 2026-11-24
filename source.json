@@ -15,6 +15,16 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.23",
+          "buildVersion": "24",
+          "date": "2026-11-24T01:11:01Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.23/ApkaDoFaktur-0.1.23.ipa",
+          "size": 6213925,
+          "sha256": "4b33448882455e58f77b5c2604d89b70016b25189096c38da48e39823ce71720",
+          "minOSVersion": "17.0",
+          "localizedDescription": "- Nowy układ szablonów PDF: dane stron obok siebie, tabela pozycji z powtarzanym nagłówkiem oraz podsumowanie kwot i płatności.\n- W edytorze można zmieniać wygląd tabeli i pozostałe ustawienia wydruku.\n- Enable Banking rozpoznaje dodatkowy typ salda i zwraca kod zgłoszenia w razie odrzucenia operacji."
+        },
+        {
           "version": "0.1.22",
           "buildVersion": "23",
           "date": "2026-11-24T00:10:43Z",
@@ -245,7 +255,7 @@
           "localizedDescription": "Pierwsze wydanie nowej Apki do Faktur na iPhone’a i iPada z iOS lub iPadOS 17 albo nowszym.\n\n- Przychody pokazują faktury, szkice i korekty na jednej liście.\n- Płatności pozwalają importować CSV lub pobierać transakcje przez Enable Banking oraz powiązać je z fakturami.\n- Dodawanie faktury otwiera pływający formularz.\n\nTa aplikacja ma nowy identyfikator. Starszą wersję można zostawić zainstalowaną. Dane lokalne obu wersji są osobne."
         }
       ],
-      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.22/apkadofaktur-icon.png",
+      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.23/apkadofaktur-icon.png",
       "appPermissions": {
         "entitlements": [],
         "privacy": {
