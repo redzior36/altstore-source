@@ -4,19 +4,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Apka do Faktur</title>
         <item>
-            <title>0.1.24</title>
-            <pubDate>Tue, 24 Nov 2026 20:06:39 +0100</pubDate>
-            <sparkle:version>26</sparkle:version>
-            <sparkle:shortVersionString>0.1.24</sparkle:shortVersionString>
+            <title>0.1.25</title>
+            <pubDate>Tue, 24 Nov 2026 20:21:46 +0100</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>0.1.25</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- Synci w Ustawieniach → Integracje. Osobisty token jest zapisywany w pęku kluczy urządzenia.
-- Płatności mogą pobierać zaksięgowane transakcje z wybranego lub wszystkich rachunków dostępnych w Synci.
-- Podsumowanie pokazuje saldo rachunków z ostatniej synchronizacji Synci.
+            <description sparkle:format="markdown"><![CDATA[- Naprawiono zapisywanie tokenu Synci w pęku kluczy w wersji macOS dostarczanej przez Sparkle.
+- Komunikaty o błędach pęku kluczy podają kod systemowy.
 ]]></description>
-            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.24/ApkaDoFaktur-0.1.24-macOS.zip" length="13348116" type="application/octet-stream" sparkle:edSignature="8BQr6TJ2nXXLIVP8H2GVWoM2HpY0XdK4rjZT+596aQdk2A/CAUX4Tsttn22glOtD7lf+cjarcvJTx/LdstV3AA=="></enclosure>
+            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.25/ApkaDoFaktur-0.1.25-macOS.zip" length="13349915" type="application/octet-stream" sparkle:edSignature="O0crTmmsC4Jqo90kmn5qunK9FYzD3ThU4Y0xxH6PxdmCVDl0QO+F3JPJz2NUY473/QJIR0pX2cXMxcX9xlDJDA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: MeiWEtO2f+cx91zj+TwJu5ZylWRvTNTgntQ2+0mTh0vhieATIsGDEbcsidbZuAUeunDifEiH1PrHqoPRBa+bDA==
-length: 1449
+edSignature: FneL9wT6N34pfqxo0KETbgvJUmwipfU4FYxZAtZelNqL0ZJzLdD1DUQh6k7aQMLoThtuBz/pQCIZh/P5RsmpCA==
+length: 1319
 -->
