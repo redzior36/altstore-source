@@ -4,18 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Apka do Faktur</title>
         <item>
-            <title>0.1.25</title>
-            <pubDate>Tue, 24 Nov 2026 20:21:46 +0100</pubDate>
-            <sparkle:version>27</sparkle:version>
-            <sparkle:shortVersionString>0.1.25</sparkle:shortVersionString>
+            <title>0.1.26</title>
+            <pubDate>Tue, 24 Nov 2026 20:31:29 +0100</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>0.1.26</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- Naprawiono zapisywanie tokenu Synci w pęku kluczy w wersji macOS dostarczanej przez Sparkle.
-- Komunikaty o błędach pęku kluczy podają kod systemowy.
+            <description sparkle:format="markdown"><![CDATA[- Nazwy, waluty i identyfikatory pomagają odróżnić rachunki Synci.
+- Dodano osobne sprawdzenie dostępu do rachunków i historii zapisanym tokenem.
+- Import Synci filtruje zaksięgowane transakcje i zakres dat w aplikacji oraz podaje wynik dla każdego pustego rachunku.
 ]]></description>
-            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.25/ApkaDoFaktur-0.1.25-macOS.zip" length="13349915" type="application/octet-stream" sparkle:edSignature="O0crTmmsC4Jqo90kmn5qunK9FYzD3ThU4Y0xxH6PxdmCVDl0QO+F3JPJz2NUY473/QJIR0pX2cXMxcX9xlDJDA=="></enclosure>
+            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.26/ApkaDoFaktur-0.1.26-macOS.zip" length="13372375" type="application/octet-stream" sparkle:edSignature="fV43YTo3tRTp8heuS1HF80DOSYygavqUuhb3Y5vxBGNvf7GLGaNrQxC3qRj0zTkqSO0ypNOhvAetTmZW4R/QDQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: FneL9wT6N34pfqxo0KETbgvJUmwipfU4FYxZAtZelNqL0ZJzLdD1DUQh6k7aQMLoThtuBz/pQCIZh/P5RsmpCA==
-length: 1319
+edSignature: YDTc3q4OoJoXEW32DwS6EQs2o+u2FHifEZg8I/XPcoK+jlvuWp0oicIUt/NisOdmNn6QKaNjF7jaEMFokvuJBA==
+length: 1437
 -->
