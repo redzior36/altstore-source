@@ -4,21 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Apka do Faktur</title>
         <item>
-            <title>0.1.21</title>
-            <pubDate>Tue, 24 Nov 2026 00:13:31 +0100</pubDate>
-            <sparkle:version>23</sparkle:version>
-            <sparkle:shortVersionString>0.1.21</sparkle:shortVersionString>
+            <title>0.1.22</title>
+            <pubDate>Tue, 24 Nov 2026 01:09:18 +0100</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>0.1.22</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- Wyśrodkowano podgląd faktury i wydzielono dane firmy do osobnego okna w ustawieniach.
-- Edytor PDF obsługuje logo i przeciąganie bloków na podglądzie, wyrównanie, rozmiar tekstu oraz pogrubienie.
-- Dodano trzy rodzaje szablonów e-mail i wysyłkę gotowej faktury z menu dokumentu.
-- Skrócono wiersze faktur do dwóch linii. Płatności mają akcje dostępne bezpośrednio na liście. Na listach działa menu kontekstowe.
-- Dodano podpowiedzi w formularzach i wybór zakresu pobierania z Enable Banking.
+            <description sparkle:format="markdown"><![CDATA[- Dane firmy są dostępne na osobnej stronie w Ustawieniach.
+- Edytor PDF ma cztery gotowe szablony oraz ustawienia typografii, odstępów i numeracji stron.
+- Podgląd faktury tworzy jeden dokument, z odnośnikami do szczegółów kontrahentów.
+- Podsumowanie pokazuje nieprzejrzane faktury, nieopłacone faktury z podziałem według terminu, bilans miesiąca i salda rachunków.
+- Komunikat pobierania transakcji rozróżnia odrzucenie przez bank od błędu zakresu dat.
 ]]></description>
-            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.21/ApkaDoFaktur-0.1.21-macOS.zip" length="12933594" type="application/octet-stream" sparkle:edSignature="BCZ4ph+9wsVwI2OqBsH4bZ/bLWXlD1taVecBsBBaAFco4c32RXawHXPhisC1EjoOcyHBBCG4mQN66pOmKHghCQ=="></enclosure>
+            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.22/ApkaDoFaktur-0.1.22-macOS.zip" length="13104547" type="application/octet-stream" sparkle:edSignature="Mt6Pbgm2POu58clwgPqORLSpNhmUup8r6cn23/JVX2N/5J6G0AFYugGsEs9/Cdk3b4j91cnrLnAUD441K8htCw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 7DyzPyQ+vTHvbFlqCw4Q8L36aJGqVpVknWktOHJU6FS3rWumpjc6Z7S9aEJeUGPBsw/CsGj5/a+J9+3sj3iDCw==
-length: 1676
+edSignature: v6xc9Iw9j01epAdLTO1/e9ODEF/JN52INL4wkeKd5inh5cDLZDx4UtR/WJhBTlCulva9kDg9PtDEG2eKg6WlCQ==
+length: 1637
 -->
