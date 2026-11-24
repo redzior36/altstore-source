@@ -15,6 +15,16 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.24",
+          "buildVersion": "25",
+          "date": "2026-11-24T19:09:29Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.24/ApkaDoFaktur-0.1.24.ipa",
+          "size": 6302662,
+          "sha256": "9cef15ace1b1e0b6e19edfbcfaa5e9d17422e13751785c22a4705690781fcca0",
+          "minOSVersion": "17.0",
+          "localizedDescription": "- Synci w Ustawieniach → Integracje. Osobisty token jest zapisywany w pęku kluczy urządzenia.\n- Płatności mogą pobierać zaksięgowane transakcje z wybranego lub wszystkich rachunków dostępnych w Synci.\n- Podsumowanie pokazuje saldo rachunków z ostatniej synchronizacji Synci."
+        },
+        {
           "version": "0.1.23",
           "buildVersion": "24",
           "date": "2026-11-24T01:11:01Z",
@@ -255,7 +265,7 @@
           "localizedDescription": "Pierwsze wydanie nowej Apki do Faktur na iPhone’a i iPada z iOS lub iPadOS 17 albo nowszym.\n\n- Przychody pokazują faktury, szkice i korekty na jednej liście.\n- Płatności pozwalają importować CSV lub pobierać transakcje przez Enable Banking oraz powiązać je z fakturami.\n- Dodawanie faktury otwiera pływający formularz.\n\nTa aplikacja ma nowy identyfikator. Starszą wersję można zostawić zainstalowaną. Dane lokalne obu wersji są osobne."
         }
       ],
-      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.23/apkadofaktur-icon.png",
+      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.24/apkadofaktur-icon.png",
       "appPermissions": {
         "entitlements": [],
         "privacy": {
