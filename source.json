@@ -15,6 +15,16 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.2.0",
+          "buildVersion": "28",
+          "date": "2026-11-25T12:37:03Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.2.0/ApkaDoFaktur-0.2.0.ipa",
+          "size": 6381775,
+          "sha256": "c62eb13711e6e6526e5e97a79c413412edd88b7fb0b2ab025d76d05bda9cd765",
+          "minOSVersion": "17.0",
+          "localizedDescription": "## Apka do Faktur 0.2.0 na iPhone’a i iPada\n\n- Wylogowanie pozwala zachować lokalny obszar roboczy. Przed jego usunięciem aplikacja pokazuje, które dane znikną z urządzenia.\n- Przenoszenie faktur do Supabase obejmuje wewnętrzne komentarze.\n- Anulowany import nie pozostawia plików wśród zapisanych dokumentów. Generowanie PDF działa w tle i respektuje blokadę obszaru roboczego.\n- Import CSV lepiej rozróżnia rachunki, a Synci sprawniej pobiera historię bankową w większych zakresach dat.\n- Aplikacja zasłania podgląd w przełączniku przy utracie aktywności. Po dłuższej przerwie ponownie prosi o odblokowanie.\n- Przy największych rozmiarach tekstu dane faktury układają się pionowo.\n\nKompilacja 28. Rewizja źródłowa `f76c46203cf15f22b14ad7ab7ebeaf0f3b6205c2`."
+        },
+        {
           "version": "0.1.26",
           "buildVersion": "27",
           "date": "2026-11-24T19:32:47Z",
@@ -285,7 +295,7 @@
           "localizedDescription": "Pierwsze wydanie nowej Apki do Faktur na iPhone’a i iPada z iOS lub iPadOS 17 albo nowszym.\n\n- Przychody pokazują faktury, szkice i korekty na jednej liście.\n- Płatności pozwalają importować CSV lub pobierać transakcje przez Enable Banking oraz powiązać je z fakturami.\n- Dodawanie faktury otwiera pływający formularz.\n\nTa aplikacja ma nowy identyfikator. Starszą wersję można zostawić zainstalowaną. Dane lokalne obu wersji są osobne."
         }
       ],
-      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.1.26/apkadofaktur-icon.png",
+      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.2.0/apkadofaktur-icon.png",
       "appPermissions": {
         "entitlements": [],
         "privacy": {
