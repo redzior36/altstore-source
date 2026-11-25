@@ -4,39 +4,28 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Apka do Faktur</title>
         <item>
-            <title>0.2.0</title>
-            <pubDate>Wed, 25 Nov 2026 13:34:35 +0100</pubDate>
-            <sparkle:version>29</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <title>0.3.0</title>
+            <pubDate>Wed, 25 Nov 2026 21:17:07 +0100</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## Apka do Faktur 0.2.0
+            <description sparkle:format="markdown"><![CDATA[## Apka do Faktur 0.3.0
 
-### macOS
-
-- Przeprojektowane podsumowanie z bilansem miesiąca, należnościami i zobowiązaniami. Przy szerszym oknie nowe i nieopłacone faktury są widoczne obok siebie.
-- Pasek boczny pozostaje dostępny po otwarciu dokumentu. Pasek narzędzi i główna akcja korzystają z systemowego Liquid Glass na obsługiwanych wersjach macOS.
-- Czytelniejsze daty, kwoty i statusy płatności na listach oraz kwota brutto w nagłówku faktury.
-
-### Faktury, pliki i płatności
-
-- Wylogowanie pozwala zachować lokalny obszar roboczy. Przed jego usunięciem aplikacja pokazuje, które dane znikną z urządzenia.
-- Przenoszenie danych do Supabase obejmuje również wewnętrzne komentarze do faktur.
-- Anulowany import nie pozostawia załączników wśród zapisanych dokumentów. Generowanie PDF działa w tle i respektuje blokadę obszaru roboczego.
-- Import CSV lepiej rozróżnia rachunki, a Synci sprawniej pobiera historię w większych zakresach dat.
-
-### iOS i iPadOS
-
-- Podgląd aplikacji w przełączniku jest zasłaniany po utracie aktywności. Po dłuższej przerwie aplikacja ponownie prosi o odblokowanie.
-- Przy największych rozmiarach tekstu dane na wierszu faktury układają się pionowo.
+- Powiadomienia o nowych kosztach z KSeF, terminach faktur kosztowych, zaległych przychodach oraz płatnościach ZUS, PIT i VAT. Każdy rodzaj ma osobny przełącznik, a przypomnienia o płatnościach mają własne ustawienie liczby dni.
+- Powiadomienia o awariach i komunikatach pobieranych z Latarni KSeF podczas działania aplikacji.
+- Przycisk „+” otwiera kafelki dodawania dokumentów. Import jest dostępny w formularzu kosztowym. Kafelek „Inne koszty” pozwala zapisać składki, podatki i pozostałe koszty wraz z datami płatności.
+- Podgląd dokumentu pokazuje status płatności. Można go zmienić na dolnym pasku.
+- Wybór stawki VAT i sposobu płatności w formularzu oraz domyślne ustawienia płatności.
+- Osobne formaty numeracji dla faktur sprzedażowych, korekt i proform. Proforma ma własny PDF i jest pomijana w bilansie oraz wysyłce do KSeF.
 
 ### Instalacja na Macu
 
-Paczka macOS ma podpis Apple Development i podpis aktualizacji Sparkle. Apple nie przeprowadziło jej notaryzacji. Przy pierwszym uruchomieniu pobranej aplikacji Gatekeeper może wymagać potwierdzenia w panelu Prywatność i ochrona. [Informacje Apple o uruchamianiu aplikacji na Macu](https://support.apple.com/pl-pl/102445).
+Paczka ma podpis Apple Development i podpis aktualizacji Sparkle. Apple nie przeprowadziło notaryzacji, więc Gatekeeper może wymagać ręcznego potwierdzenia przy pierwszym uruchomieniu. [Informacje Apple](https://support.apple.com/pl-pl/102445).
 ]]></description>
-            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.2.0/ApkaDoFaktur-0.2.0-macOS.zip" length="13564544" type="application/octet-stream" sparkle:edSignature="Bqe3hm7lgG9BbJA96MD/g9zCCEoUkzI6YRm6OGOBqu+dXK1WOYMKQr/VWIcOgLcwLaA5wmN6CnQmOJCNH5GbCg=="></enclosure>
+            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.0/ApkaDoFaktur-0.3.0-macOS.zip" length="13852784" type="application/octet-stream" sparkle:edSignature="lK/PLE1R8YgYcnY40cLG/cWAqZAAggS00Zwr4sJRbHrE/BMqR7hsvVQvwevYsh18EVkaTr/FjkC5MD4vimU2AA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: /pfncUMphlrBrrffojcQHe0r/T+p35pz16DOTcCfM3YQNWr9ED3i1tLw3XMx0tkk2/Bh9zHFoPlpu2M8e6vWDg==
-length: 2739
+edSignature: hfDeRHABZMrlkMYkHoAk5ZDMoJTC0qGEYtHxDtvIte4vtGM3wLWbDXVmNLtaOA9jNNOOZfMtd9bSmOmy+J+gDA==
+length: 2334
 -->
