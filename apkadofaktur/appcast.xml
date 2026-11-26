@@ -4,18 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Apka do Faktur</title>
         <item>
-            <title>0.3.4</title>
-            <pubDate>Thu, 26 Nov 2026 22:32:24 +0100</pubDate>
-            <sparkle:version>34</sparkle:version>
-            <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
+            <title>0.3.5</title>
+            <pubDate>Thu, 26 Nov 2026 23:32:19 +0100</pubDate>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>0.3.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- Faktury Podmiotu 3 są widoczne w **Przychodach** lub **Kosztach**, zależnie od roli firmy w KSeF. Zmiana obejmuje także wcześniej pobrane dokumenty.
-- Rola firmy jest widoczna na liście i w szczegółach faktury. Dokumenty z niejednoznaczną rolą na liście kosztów są oznaczone jako **Do sprawdzenia**.
+            <description sparkle:format="markdown"><![CDATA[- Synchronizacja KSeF przechodzi przez kolejne zakresy także po pustej partii. Pole **Sprawdzono do** pokazuje zakres, który został już sprawdzony.
+- Import KSeF TEST zaczyna od historii nowego środowiska testowego z 2025 r.
+- Szczegóły synchronizacji informują, czy importer sprawdza dalsze okresy, czeka na KSeF, czy skończył sprawdzanie dostępnych faktur.
 ]]></description>
-            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.4/ApkaDoFaktur-0.3.4-macOS.zip" length="14252839" type="application/octet-stream" sparkle:edSignature="YSWa1U8KU3+r/2X53hwfbpy5UoB0O2BEJA4VcN2+Q5mOhmOybMqvudP/vAODzNa/cgG//zGXnB2Emp/+Pfw9CQ=="></enclosure>
+            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.5/ApkaDoFaktur-0.3.5-macOS.zip" length="14255582" type="application/octet-stream" sparkle:edSignature="PZXmZ9AXLvNYPuoolpd8qbAHF8U33r5jmEuUqObtRbM4MIvTOLRe3fVpJish1O7I4RYLQx8QMvERszOvR7HDDQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: wm9aE691fWbg7WA2KYyxh85hQ8cs9sKs/X5XqpJ+mSTRDYr0BzafZKuQMi60gqPCuJxRu6NtLpTMwFITjEpeCw==
-length: 1472
+edSignature: lAhZ9r3E99hwrF2GDKzzRJZIijGlooGqIGEOM3TN+njS+e4VG4tZ65SsEvrsPEdXCUpkqlJEvnVG4DDcR6f7BQ==
+length: 1528
 -->

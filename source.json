@@ -15,6 +15,16 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.3.5",
+          "buildVersion": "34",
+          "date": "2026-11-26T22:39:19Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.5/ApkaDoFaktur-0.3.5.ipa",
+          "size": 6714218,
+          "sha256": "3253b8d3ca668f96360e3cbb390719dd94f088fc6113347914c157ee4d4473ee",
+          "minOSVersion": "17.0",
+          "localizedDescription": "- Synchronizacja KSeF przechodzi przez kolejne zakresy także po pustej partii. Pole **Sprawdzono do** pokazuje zakres, który został już sprawdzony.\n- Import KSeF TEST zaczyna od historii nowego środowiska testowego z 2025 r.\n- Szczegóły synchronizacji informują, czy importer sprawdza dalsze okresy, czeka na KSeF, czy skończył sprawdzanie dostępnych faktur."
+        },
+        {
           "version": "0.3.4",
           "buildVersion": "33",
           "date": "2026-11-26T21:38:23Z",
@@ -345,7 +355,7 @@
           "localizedDescription": "Pierwsze wydanie nowej Apki do Faktur na iPhone’a i iPada z iOS lub iPadOS 17 albo nowszym.\n\n- Przychody pokazują faktury, szkice i korekty na jednej liście.\n- Płatności pozwalają importować CSV lub pobierać transakcje przez Enable Banking oraz powiązać je z fakturami.\n- Dodawanie faktury otwiera pływający formularz.\n\nTa aplikacja ma nowy identyfikator. Starszą wersję można zostawić zainstalowaną. Dane lokalne obu wersji są osobne."
         }
       ],
-      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.4/apkadofaktur-icon.png",
+      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.5/apkadofaktur-icon.png",
       "appPermissions": {
         "entitlements": [],
         "privacy": {
