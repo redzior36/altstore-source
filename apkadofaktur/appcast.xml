@@ -4,23 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Apka do Faktur</title>
         <item>
-            <title>0.3.1</title>
-            <pubDate>Thu, 26 Nov 2026 01:52:18 +0100</pubDate>
-            <sparkle:version>31</sparkle:version>
-            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+            <title>0.3.2</title>
+            <pubDate>Thu, 26 Nov 2026 18:17:31 +0100</pubDate>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## Szablony PDF w plikach RTF
+            <description sparkle:format="markdown"><![CDATA[## Automatyczna konfiguracja KSeF
+Kreator Supabase stosuje migracje, uruchamia funkcję KSeF, konfiguruje jej sekrety i włącza harmonogramy importu, wysyłki offline oraz sprawdzania dostępności KSeF.
+W podłączonym projekcie wybierz **Ustawienia → KSeF → Uzupełnij konfigurację Supabase**. Ponowienie używa zapisanego klucza szyfrującego.
 
-- Pobierz wzór z gotową tabelą albo własnym układem pozycji. Zmień go w Pages lub TextEdit i zaimportuj w ustawieniach fakturowania.
-- Podgląd na przykładowej fakturze pozwala sprawdzić układ przed zastosowaniem.
-- Znaczniki uzupełniają dane dokumentu i kontrahentów, płatności, korektę i KSeF. Własny układ pozycji powtarza się dla każdego wiersza faktury.
-
-Wersja na Maca jest wydaniem testowym z podpisem Apple Development, bez notaryzacji.
+Wersja dla Maca jest paczką testową z podpisem Apple Development, bez notaryzacji.
 ]]></description>
-            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.1/ApkaDoFaktur-0.3.1-macOS.zip" length="14003944" type="application/octet-stream" sparkle:edSignature="bdljJdFk5XK8JzT4aRMMomOtu7s6FpoNZG2/B4+5PBNUGa2uE8PvSLkjDLqym3ZVSwtwlAnw6ojEZKOW31QDCQ=="></enclosure>
+            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.2/ApkaDoFaktur-0.3.2-macOS.zip" length="14125887" type="application/octet-stream" sparkle:edSignature="pvJry5Cs9ePuoFy7kE91fFvzSPVACefU0+oSApub7cX/hDlj8d/2aZ0HecZgfIhEdsN3PFBoCArmYZFids7fBA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: zBg19QQjo6TyuPTvs314Yfrm9kslnkHwcV2XO2lVukiN9ED5I9MGo8oEQJ3HEUbidR2c7aCLdZnqEtQq53BJDg==
-length: 1653
+edSignature: Th4PYdYloispAT2Qga1tSmn2dsep3GOhQLp1lSmgq7I8EAMc1V0DLLO7Dk+kOu8wB4UmpArSBJfIWfifrtjbCw==
+length: 1597
 -->

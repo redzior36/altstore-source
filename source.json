@@ -15,6 +15,16 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.3.2",
+          "buildVersion": "31",
+          "date": "2026-11-26T17:27:04Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.2/ApkaDoFaktur-0.3.2.ipa",
+          "size": 6653563,
+          "sha256": "5ded01c446aa45958a0e4ab8e3f6b3739d5427c35e06a9be0226d69b466ee3fe",
+          "minOSVersion": "17.0",
+          "localizedDescription": "## Automatyczna konfiguracja KSeF\nKreator Supabase stosuje migracje, uruchamia funkcję KSeF, konfiguruje jej sekrety i włącza harmonogramy importu, wysyłki offline oraz sprawdzania dostępności KSeF.\nW podłączonym projekcie wybierz **Ustawienia → KSeF → Uzupełnij konfigurację Supabase**. Ponowienie używa zapisanego klucza szyfrującego."
+        },
+        {
           "version": "0.3.1",
           "buildVersion": "30",
           "date": "2026-11-26T00:58:25Z",
@@ -315,7 +325,7 @@
           "localizedDescription": "Pierwsze wydanie nowej Apki do Faktur na iPhone’a i iPada z iOS lub iPadOS 17 albo nowszym.\n\n- Przychody pokazują faktury, szkice i korekty na jednej liście.\n- Płatności pozwalają importować CSV lub pobierać transakcje przez Enable Banking oraz powiązać je z fakturami.\n- Dodawanie faktury otwiera pływający formularz.\n\nTa aplikacja ma nowy identyfikator. Starszą wersję można zostawić zainstalowaną. Dane lokalne obu wersji są osobne."
         }
       ],
-      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.1/apkadofaktur-icon.png",
+      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.2/apkadofaktur-icon.png",
       "appPermissions": {
         "entitlements": [],
         "privacy": {
