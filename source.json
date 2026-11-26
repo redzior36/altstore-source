@@ -15,6 +15,16 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.3.3",
+          "buildVersion": "32",
+          "date": "2026-11-26T20:35:17Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.3/ApkaDoFaktur-0.3.3.ipa",
+          "size": 6704130,
+          "sha256": "5fdacc18e2f6bc51054270cedee06a8001c188e53aecb48c84642eda32c4a457",
+          "minOSVersion": "17.0",
+          "localizedDescription": "- Pierwsza synchronizacja KSeF rozpoczyna się po zapisaniu certyfikatu. Supabase automatycznie wznawia pobieranie kolejnych partii.\n- Synchronizacja ręczna i w tle obejmuje sprzedaż, zakupy oraz faktury dostępne jako Podmiot 3. Dokumenty Podmiotu 3 mają osobną zakładkę.\n- Import FA zapisuje pozycje, datę lub okres sprzedaży i kwoty z KSeF. Ponowny import uzupełnia wcześniej zapisane faktury kosztowe i zachowuje ich status płatności.\n- W istniejącym projekcie wybierz w ustawieniach KSeF **Uzupełnij konfigurację Supabase**, aby uruchomić nowy importer z zapisanym certyfikatem."
+        },
+        {
           "version": "0.3.2",
           "buildVersion": "31",
           "date": "2026-11-26T17:27:04Z",
@@ -325,7 +335,7 @@
           "localizedDescription": "Pierwsze wydanie nowej Apki do Faktur na iPhone’a i iPada z iOS lub iPadOS 17 albo nowszym.\n\n- Przychody pokazują faktury, szkice i korekty na jednej liście.\n- Płatności pozwalają importować CSV lub pobierać transakcje przez Enable Banking oraz powiązać je z fakturami.\n- Dodawanie faktury otwiera pływający formularz.\n\nTa aplikacja ma nowy identyfikator. Starszą wersję można zostawić zainstalowaną. Dane lokalne obu wersji są osobne."
         }
       ],
-      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.2/apkadofaktur-icon.png",
+      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.3/apkadofaktur-icon.png",
       "appPermissions": {
         "entitlements": [],
         "privacy": {
