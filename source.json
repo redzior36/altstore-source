@@ -15,6 +15,16 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.3.1",
+          "buildVersion": "30",
+          "date": "2026-11-26T00:58:25Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.1/ApkaDoFaktur-0.3.1.ipa",
+          "size": 6586889,
+          "sha256": "dbc76d0a201075f7bf255fb1cbaf4237db61cd67be34b16f9b059e09544b0eee",
+          "minOSVersion": "17.0",
+          "localizedDescription": "Import własnych szablonów faktur z pliku RTF. Dwa gotowe wzory do pobrania, znaczniki dokumentu i poszczególnych pozycji oraz podgląd PDF przed zastosowaniem."
+        },
+        {
           "version": "0.3.0",
           "buildVersion": "29",
           "date": "2026-11-25T20:18:17Z",
@@ -305,7 +315,7 @@
           "localizedDescription": "Pierwsze wydanie nowej Apki do Faktur na iPhone’a i iPada z iOS lub iPadOS 17 albo nowszym.\n\n- Przychody pokazują faktury, szkice i korekty na jednej liście.\n- Płatności pozwalają importować CSV lub pobierać transakcje przez Enable Banking oraz powiązać je z fakturami.\n- Dodawanie faktury otwiera pływający formularz.\n\nTa aplikacja ma nowy identyfikator. Starszą wersję można zostawić zainstalowaną. Dane lokalne obu wersji są osobne."
         }
       ],
-      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.0/apkadofaktur-icon.png",
+      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.1/apkadofaktur-icon.png",
       "appPermissions": {
         "entitlements": [],
         "privacy": {

@@ -4,28 +4,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Apka do Faktur</title>
         <item>
-            <title>0.3.0</title>
-            <pubDate>Wed, 25 Nov 2026 21:17:07 +0100</pubDate>
-            <sparkle:version>30</sparkle:version>
-            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <title>0.3.1</title>
+            <pubDate>Thu, 26 Nov 2026 01:52:18 +0100</pubDate>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[## Apka do Faktur 0.3.0
+            <description sparkle:format="markdown"><![CDATA[## Szablony PDF w plikach RTF
 
-- Powiadomienia o nowych kosztach z KSeF, terminach faktur kosztowych, zaległych przychodach oraz płatnościach ZUS, PIT i VAT. Każdy rodzaj ma osobny przełącznik, a przypomnienia o płatnościach mają własne ustawienie liczby dni.
-- Powiadomienia o awariach i komunikatach pobieranych z Latarni KSeF podczas działania aplikacji.
-- Przycisk „+” otwiera kafelki dodawania dokumentów. Import jest dostępny w formularzu kosztowym. Kafelek „Inne koszty” pozwala zapisać składki, podatki i pozostałe koszty wraz z datami płatności.
-- Podgląd dokumentu pokazuje status płatności. Można go zmienić na dolnym pasku.
-- Wybór stawki VAT i sposobu płatności w formularzu oraz domyślne ustawienia płatności.
-- Osobne formaty numeracji dla faktur sprzedażowych, korekt i proform. Proforma ma własny PDF i jest pomijana w bilansie oraz wysyłce do KSeF.
+- Pobierz wzór z gotową tabelą albo własnym układem pozycji. Zmień go w Pages lub TextEdit i zaimportuj w ustawieniach fakturowania.
+- Podgląd na przykładowej fakturze pozwala sprawdzić układ przed zastosowaniem.
+- Znaczniki uzupełniają dane dokumentu i kontrahentów, płatności, korektę i KSeF. Własny układ pozycji powtarza się dla każdego wiersza faktury.
 
-### Instalacja na Macu
-
-Paczka ma podpis Apple Development i podpis aktualizacji Sparkle. Apple nie przeprowadziło notaryzacji, więc Gatekeeper może wymagać ręcznego potwierdzenia przy pierwszym uruchomieniu. [Informacje Apple](https://support.apple.com/pl-pl/102445).
+Wersja na Maca jest wydaniem testowym z podpisem Apple Development, bez notaryzacji.
 ]]></description>
-            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.0/ApkaDoFaktur-0.3.0-macOS.zip" length="13852784" type="application/octet-stream" sparkle:edSignature="lK/PLE1R8YgYcnY40cLG/cWAqZAAggS00Zwr4sJRbHrE/BMqR7hsvVQvwevYsh18EVkaTr/FjkC5MD4vimU2AA=="></enclosure>
+            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.1/ApkaDoFaktur-0.3.1-macOS.zip" length="14003944" type="application/octet-stream" sparkle:edSignature="bdljJdFk5XK8JzT4aRMMomOtu7s6FpoNZG2/B4+5PBNUGa2uE8PvSLkjDLqym3ZVSwtwlAnw6ojEZKOW31QDCQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: hfDeRHABZMrlkMYkHoAk5ZDMoJTC0qGEYtHxDtvIte4vtGM3wLWbDXVmNLtaOA9jNNOOZfMtd9bSmOmy+J+gDA==
-length: 2334
+edSignature: zBg19QQjo6TyuPTvs314Yfrm9kslnkHwcV2XO2lVukiN9ED5I9MGo8oEQJ3HEUbidR2c7aCLdZnqEtQq53BJDg==
+length: 1653
 -->
