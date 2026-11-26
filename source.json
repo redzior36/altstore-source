@@ -15,6 +15,16 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.3.4",
+          "buildVersion": "33",
+          "date": "2026-11-26T21:38:23Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.4/ApkaDoFaktur-0.3.4.ipa",
+          "size": 6713135,
+          "sha256": "2e7bf46e43b4710241ed4ecfb6303ad459c8d6bb0bfb012eb631552ad55c8494",
+          "minOSVersion": "17.0",
+          "localizedDescription": "- Faktury Podmiotu 3 są widoczne w **Przychodach** lub **Kosztach**, zależnie od roli firmy w KSeF. Zmiana obejmuje także wcześniej pobrane dokumenty.\n- Rola firmy jest widoczna na liście i w szczegółach faktury. Dokumenty z niejednoznaczną rolą na liście kosztów są oznaczone jako **Do sprawdzenia**."
+        },
+        {
           "version": "0.3.3",
           "buildVersion": "32",
           "date": "2026-11-26T20:35:17Z",
@@ -335,7 +345,7 @@
           "localizedDescription": "Pierwsze wydanie nowej Apki do Faktur na iPhone’a i iPada z iOS lub iPadOS 17 albo nowszym.\n\n- Przychody pokazują faktury, szkice i korekty na jednej liście.\n- Płatności pozwalają importować CSV lub pobierać transakcje przez Enable Banking oraz powiązać je z fakturami.\n- Dodawanie faktury otwiera pływający formularz.\n\nTa aplikacja ma nowy identyfikator. Starszą wersję można zostawić zainstalowaną. Dane lokalne obu wersji są osobne."
         }
       ],
-      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.3/apkadofaktur-icon.png",
+      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.4/apkadofaktur-icon.png",
       "appPermissions": {
         "entitlements": [],
         "privacy": {
