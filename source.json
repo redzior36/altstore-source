@@ -15,6 +15,16 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.3.8",
+          "buildVersion": "37",
+          "date": "2026-11-27T19:03:34Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.8/ApkaDoFaktur-0.3.8.ipa",
+          "size": 6760863,
+          "sha256": "a5ece9c0c8297eb36e06be192b2eb348208c77f236145a43017ba20befca47f0",
+          "minOSVersion": "17.0",
+          "localizedDescription": "Na iPhonie i iPadzie system może odświeżać powiadomienia o nowych fakturach kosztowych i komunikatach KSeF w tle. Przypomnienia o płatnościach i podatkach są przekazywane do systemu także podczas przejścia aplikacji w tło. Termin odświeżania wybiera iOS."
+        },
+        {
           "version": "0.3.7",
           "buildVersion": "36",
           "date": "2026-11-27T15:51:56Z",
@@ -375,7 +385,7 @@
           "localizedDescription": "Pierwsze wydanie nowej Apki do Faktur na iPhone’a i iPada z iOS lub iPadOS 17 albo nowszym.\n\n- Przychody pokazują faktury, szkice i korekty na jednej liście.\n- Płatności pozwalają importować CSV lub pobierać transakcje przez Enable Banking oraz powiązać je z fakturami.\n- Dodawanie faktury otwiera pływający formularz.\n\nTa aplikacja ma nowy identyfikator. Starszą wersję można zostawić zainstalowaną. Dane lokalne obu wersji są osobne."
         }
       ],
-      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.7/apkadofaktur-icon.png",
+      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.8/apkadofaktur-icon.png",
       "appPermissions": {
         "entitlements": [],
         "privacy": {

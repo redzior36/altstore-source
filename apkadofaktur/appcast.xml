@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Apka do Faktur</title>
         <item>
-            <title>0.3.7</title>
-            <pubDate>Fri, 27 Nov 2026 16:46:44 +0100</pubDate>
-            <sparkle:version>37</sparkle:version>
-            <sparkle:shortVersionString>0.3.7</sparkle:shortVersionString>
+            <title>0.3.8</title>
+            <pubDate>Fri, 27 Nov 2026 20:01:56 +0100</pubDate>
+            <sparkle:version>38</sparkle:version>
+            <sparkle:shortVersionString>0.3.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[Na iPhonie przyciski dodawania faktury, ustawień, kartoteki i stanu synchronizacji są dostępne na każdej karcie. Poprawiono nawigację do podglądu po zmianie karty. W podglądzie faktury status płatności i menu pozostałych akcji są dostępne bez przewijania paska.
+            <description sparkle:format="markdown"><![CDATA[Na iPhonie i iPadzie system może odświeżać powiadomienia o nowych fakturach kosztowych i komunikatach KSeF w tle. Przypomnienia o płatnościach i podatkach są przekazywane do systemu także podczas przejścia aplikacji w tło. Termin odświeżania wybiera iOS.
 ]]></description>
-            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.7/ApkaDoFaktur-0.3.7-macOS.zip" length="14333164" type="application/octet-stream" sparkle:edSignature="tUraJjaXxPHmiyMd3UtodgDBBSj7A7mqeSkEOdi/fL6LqHdr+AIT2RPm28xG2csrGD80uFbldpbRXjSJgx4XCg=="></enclosure>
+            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.8/ApkaDoFaktur-0.3.8-macOS.zip" length="14341643" type="application/octet-stream" sparkle:edSignature="bNeVpRSkp1TlYj5JNjEm+oIvNK2UkuHaO8cfHCFhUb2hCjUuk+ppT/riAD+bPV4GrwhYChqsi/SLEwAghTeLBQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: lUX+JTqg0NRJPF31t3A1NsIZuc1DXW43HCsAepVmXlGw6va/AKwGq6Ji0n1cGP+Syrvej5lxU+paTizcEVvvAw==
-length: 1432
+edSignature: mxHhoZl7vcMvesmWOL2/H6WaMXRFCKZU3mDBYx0CkmsUJdV8VE5LlpCP77CWSE+W6HH2dWc0Xsk94IgahirEBg==
+length: 1425
 -->
