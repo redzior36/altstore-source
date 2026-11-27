@@ -15,6 +15,16 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.3.7",
+          "buildVersion": "36",
+          "date": "2026-11-27T15:51:56Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.7/ApkaDoFaktur-0.3.7.ipa",
+          "size": 6744062,
+          "sha256": "d17483d55c618e2207eba1ab09614e7032d04fec394ff5fb89296559a136fec3",
+          "minOSVersion": "17.0",
+          "localizedDescription": "Na iPhonie przyciski dodawania faktury, ustawień, kartoteki i stanu synchronizacji są dostępne na każdej karcie. Poprawiono nawigację do podglądu po zmianie karty. W podglądzie faktury status płatności i menu pozostałych akcji są dostępne bez przewijania paska."
+        },
+        {
           "version": "0.3.6",
           "buildVersion": "35",
           "date": "2026-11-27T08:08:47Z",
@@ -365,7 +375,7 @@
           "localizedDescription": "Pierwsze wydanie nowej Apki do Faktur na iPhone’a i iPada z iOS lub iPadOS 17 albo nowszym.\n\n- Przychody pokazują faktury, szkice i korekty na jednej liście.\n- Płatności pozwalają importować CSV lub pobierać transakcje przez Enable Banking oraz powiązać je z fakturami.\n- Dodawanie faktury otwiera pływający formularz.\n\nTa aplikacja ma nowy identyfikator. Starszą wersję można zostawić zainstalowaną. Dane lokalne obu wersji są osobne."
         }
       ],
-      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.6/apkadofaktur-icon.png",
+      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.7/apkadofaktur-icon.png",
       "appPermissions": {
         "entitlements": [],
         "privacy": {
