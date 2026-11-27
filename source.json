@@ -15,6 +15,16 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.3.6",
+          "buildVersion": "35",
+          "date": "2026-11-27T08:08:47Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.6/ApkaDoFaktur-0.3.6.ipa",
+          "size": 6742340,
+          "sha256": "02b22dda1e34a7044d4376eaec13534a4f93b96b788aa8697bc461f2d6aeeda0",
+          "minOSVersion": "17.0",
+          "localizedDescription": "- Kody TOTP wpisuje się w sześciu polach. Weryfikacja rusza automatycznie po ostatniej cyfrze lub wklejeniu kodu.\n- KSeF pobiera pełną dostępną historię w tle. Faktury pojawiają się po zapisaniu kolejnych partii, a wskaźnik pokazuje trwające pobieranie.\n- Faktury Podmiotu 3 mają plakietkę „Podmiot3”. Długie nazwy pozostają w kolumnach, a menu wiersza ma większy obszar kliknięcia.\n- Podsumowanie automatycznie otwiera ostatni dostępny miesiąc, gdy bieżący jest pusty, i oddzielnie pokazuje środowiska testowe.\n- Zmieniono styl pól tekstowych, układ Podsumowania i pusty widok Płatności. Menu dodawania i konfiguracji zamyka się po kliknięciu poza nim."
+        },
+        {
           "version": "0.3.5",
           "buildVersion": "34",
           "date": "2026-11-26T22:39:19Z",
@@ -355,7 +365,7 @@
           "localizedDescription": "Pierwsze wydanie nowej Apki do Faktur na iPhone’a i iPada z iOS lub iPadOS 17 albo nowszym.\n\n- Przychody pokazują faktury, szkice i korekty na jednej liście.\n- Płatności pozwalają importować CSV lub pobierać transakcje przez Enable Banking oraz powiązać je z fakturami.\n- Dodawanie faktury otwiera pływający formularz.\n\nTa aplikacja ma nowy identyfikator. Starszą wersję można zostawić zainstalowaną. Dane lokalne obu wersji są osobne."
         }
       ],
-      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.5/apkadofaktur-icon.png",
+      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.6/apkadofaktur-icon.png",
       "appPermissions": {
         "entitlements": [],
         "privacy": {
