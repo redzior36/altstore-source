@@ -15,6 +15,16 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.3.10",
+          "buildVersion": "39",
+          "date": "2026-11-28T10:05:57Z",
+          "downloadURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.10/ApkaDoFaktur-0.3.10.ipa",
+          "size": 6804651,
+          "sha256": "832c21509ff317b27790390a583dc98ee4728aa5d14ff4b9b2510a45c45bea93",
+          "minOSVersion": "17.0",
+          "localizedDescription": "Nowa akcja Skrótów sprawdza nowe koszty i komunikaty KSeF w tle. Możesz uruchamiać ją automatycznie po otrzymaniu skonfigurowanego SMS-a."
+        },
+        {
           "version": "0.3.9",
           "buildVersion": "38",
           "date": "2026-11-27T20:35:10Z",
@@ -395,7 +405,7 @@
           "localizedDescription": "Pierwsze wydanie nowej Apki do Faktur na iPhone’a i iPada z iOS lub iPadOS 17 albo nowszym.\n\n- Przychody pokazują faktury, szkice i korekty na jednej liście.\n- Płatności pozwalają importować CSV lub pobierać transakcje przez Enable Banking oraz powiązać je z fakturami.\n- Dodawanie faktury otwiera pływający formularz.\n\nTa aplikacja ma nowy identyfikator. Starszą wersję można zostawić zainstalowaną. Dane lokalne obu wersji są osobne."
         }
       ],
-      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.9/apkadofaktur-icon.png",
+      "iconURL": "https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.10/apkadofaktur-icon.png",
       "appPermissions": {
         "entitlements": [],
         "privacy": {

@@ -4,21 +4,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Apka do Faktur</title>
         <item>
-            <title>0.3.9</title>
-            <pubDate>Fri, 27 Nov 2026 21:33:16 +0100</pubDate>
-            <sparkle:version>39</sparkle:version>
-            <sparkle:shortVersionString>0.3.9</sparkle:shortVersionString>
+            <title>0.3.10</title>
+            <pubDate>Sat, 28 Nov 2026 11:04:03 +0100</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>0.3.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- Dodano automatyczne odblokowywanie i powrót do rozpoczętej faktury po blokadzie.
-- Formularz faktury ma skrócone dane kontrahenta i osobny edytor pozycji z przeliczaniem kwot netto, VAT i brutto. Okienka można zamknąć dotknięciem tła.
-- Podsumowanie iOS pokazuje do trzech pozycji w każdej sekcji. Uporządkowano akcje Płatności, listę faktur i ustawienia integracji.
-- Powiadomienia mogą pokazywać nazwę sprzedawcy. Pierwsza konfiguracja obejmuje ustawienia powiadomień oraz zgodę systemową.
-- Akcja wysyłki faktury mailem otwiera edytor wiadomości z dokumentem PDF.
+            <description sparkle:format="markdown"><![CDATA[## Apka do Faktur 0.3.10
+
+Wspólne wydanie Apki do Faktur. Akcja Skrótów sprawdzająca nowe powiadomienia KSeF jest dostępna na iPhonie i iPadzie.
 ]]></description>
-            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.9/ApkaDoFaktur-0.3.9-macOS.zip" length="14369158" type="application/octet-stream" sparkle:edSignature="cMbPqWH8xtV9J47agVXFIP/ln7fQsAkvDSP6iBda9DWEUEbHHXhL0tqjB+G/JTS4giLRk79FOp6ytKoz3TYkBg=="></enclosure>
+            <enclosure url="https://github.com/redzior36/altstore-source/releases/download/apkadofaktur-v0.3.10/ApkaDoFaktur-0.3.10-macOS.zip" length="14369150" type="application/octet-stream" sparkle:edSignature="jvhsmVRH8MfgFBNFZguvvrfbkAueq5Tw6giqVIRS4hohvBht9pa2849KbdWzNpzcKDvtdXo2oseKfp2Lwqb8CQ=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Agrkva8bcI/sU7UXKzBXCIucNA23hR/acnqApiTk4WXWvqNMjIj3ZHmPfXnWxT/QP3Ybfe2QIjb3HBlKFdtSDA==
-length: 1748
+edSignature: 4sX1C/7L+m5zswxOHavUUr1/RgeSyjnGdnGFmz4YaKlUMNKZE9j6r9JXYYgfsWESXxb2O8kzFGkhS7Pjh//zAg==
+length: 1312
 -->
